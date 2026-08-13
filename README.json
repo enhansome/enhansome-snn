@@ -1,0 +1,1143 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uzh-rpg/event-based_vision_resources",
+          "description": "Event-based Vision Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T07:54:41Z",
+            "owner": "uzh-rpg",
+            "repo": "event-based_vision_resources",
+            "stars": 3615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpikingChen/SNN-Daily-Arxiv",
+          "description": "Update arXiv papers about Spiking Neural Networks daily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T22:48:42Z",
+            "owner": "SpikingChen",
+            "repo": "SNN-Daily-Arxiv",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XDUSPONGE/SNN_benchmark",
+          "description": "Spiking Neural Network Paper List.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-08T07:12:54Z",
+            "owner": "XDUSPONGE",
+            "repo": "SNN_benchmark",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amirHossein-Ebrahimi/awesome-computational-neuro-science",
+          "description": "A curated list of awesome Go frameworks, libraries, and software + First class pure python Tutorial Series for Spiking Neural Networks 🔥.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-15T21:36:06Z",
+            "owner": "realamirhe",
+            "repo": "awesome-computational-neuro-science",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vvvityaaa/awesome-spiking-neural-networks",
+          "description": "A curated list of materials for Spiking Neural Networks, 3rd generation of artificial neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-19T15:08:16Z",
+            "owner": "vvvityaaa",
+            "repo": "awesome-spiking-neural-networks",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shenhaibo123/SNN_arxiv_daily",
+          "description": "SNN_arxiv_daily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2023-03-16T11:46:19Z",
+            "owner": "shenhaibo123",
+            "repo": "SNN_arxiv_daily",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheAwesomeAndy/Awesome_SNN_Reads",
+          "description": "A list of little and big reads about SNN's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-22T19:04:31Z",
+            "owner": "TheAwesomeAndy",
+            "repo": "Awesome_SNN_Reads",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Review"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NCPs",
+          "description": "PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models. \"Neural circuit policies enabling auditable autonomy\". (Nature Machine Intelligence, 2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T13:50:44Z",
+            "owner": "mlech26l",
+            "repo": "ncps",
+            "stars": 2344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpikingJelly | 惊蜇",
+          "description": "SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。spikingjelly.readthedocs.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:15:02Z",
+            "owner": "fangwei123456",
+            "repo": "spikingjelly",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snntorch",
+          "description": "Deep and online learning with spiking neural networks in Python. \"Training Spiking Neural Networks Using Lessons From Deep Learning\". (arXiv 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T13:27:42Z",
+            "owner": "jeshraghian",
+            "repo": "snntorch",
+            "stars": 2027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTCs",
+          "description": "\"Liquid Time-constant Networks\". (AAAI 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-03T17:18:14Z",
+            "owner": "raminmh",
+            "repo": "liquid_time_constant_networks",
+            "stars": 1856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BindsNET",
+          "description": "Simulation of spiking neural networks (SNNs) using PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:00:29Z",
+            "owner": "BindsNET",
+            "repo": "bindsnet",
+            "stars": 1691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brian2",
+          "description": "Brian is a free, open source simulator for spiking neural networks. \"Brian 2, an intuitive and efficient neural simulator\". (Elife 2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T09:02:50Z",
+            "owner": "brian-team",
+            "repo": "brian2",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spiking-Neural-Network",
+          "description": "This is the python implementation of hardware efficient spiking neural network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-29T05:45:51Z",
+            "owner": "Shikhargupta",
+            "repo": "Spiking-Neural-Network",
+            "stars": 1209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CfC",
+          "description": "\"Closed-form continuous-time neural networks\". (Nature Machine Intelligence, 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-05T00:34:15Z",
+            "owner": "raminmh",
+            "repo": "CfC",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "norse",
+          "description": "Deep learning with spiking neural networks (SNNs) in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T19:57:17Z",
+            "owner": "norse",
+            "repo": "norse",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainCog | 智脉",
+          "description": "BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage http://www.brain-cog.network/. \"BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation\". (arXiv 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-06T13:37:53Z",
+            "owner": "BrainCog-X",
+            "repo": "Brain-Cog",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snn_toolbox",
+          "description": "Toolbox for converting analog to spiking neural networks (ANN to SNN), and running them in a spiking neuron simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-13T10:01:01Z",
+            "owner": "NeuromorphicProcessorProject",
+            "repo": "snn_toolbox",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpyTorch",
+          "description": "\"Surrogate gradient learning in spiking neural networks: Bringing the power of gradient-based optimization to spiking neural networks\". (IEEE Signal Processing Magazine 2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-18T09:35:11Z",
+            "owner": "fzenke",
+            "repo": "spytorch",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slayerPytorch",
+          "description": "PyTorch implementation of SLAYER for training Spiking Neural Networks . \"Slayer: Spike layer error reassignment in time\". (NeurIPS 2018)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-17T20:22:36Z",
+            "owner": "bamsumit",
+            "repo": "slayerPytorch",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP",
+          "description": "Spiking Neural Network (SNN) with PyTorch : towards bridging the gap between deep learning and the human brain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-06T18:01:13Z",
+            "owner": "guillaume-chevalier",
+            "repo": "Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yjwu17/STBP-for-training-SpikingNN",
+          "description": "Spatio-temporal BP for spiking neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-17T09:30:39Z",
+            "owner": "yjwu17",
+            "repo": "STBP-for-training-SpikingNN",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySNN",
+          "description": "Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-31T11:31:14Z",
+            "owner": "BasBuller",
+            "repo": "PySNN",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spike-Element-Wise-ResNet",
+          "description": "\"Deep residual learning in spiking neural networks\". (NeurIPS 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T02:55:18Z",
+            "owner": "fangwei123456",
+            "repo": "Spike-Element-Wise-ResNet",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuSNN",
+          "description": "Spiking Neural Networks in C++ with strong GPU acceleration through CUDA. \"Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception\". (TPAMI 2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2020-07-03T07:15:41Z",
+            "owner": "tudelft",
+            "repo": "cuSNN",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VOneNets",
+          "description": "\"Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations\". (NeurIPS 2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-08T19:03:23Z",
+            "owner": "dicarlolab",
+            "repo": "vonenet",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sinabs",
+          "description": "Spiking neural network library based on PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T02:55:37Z",
+            "owner": "synsense",
+            "repo": "sinabs",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPAIC",
+          "description": "Spike-based artificial intelligence computing platform. \"Darwin-S: A Reference Software Architecture for Brain-Inspired Computers\". (IEEE Computer 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T03:42:25Z",
+            "owner": "zju-bmi-lab",
+            "repo": "SPAIC",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yhhhli/SNN_Calibration",
+          "description": "Pytorch Implementation of Spiking Neural Networks Calibration, ICML 2021. \"A free lunch from ANN: Towards efficient, accurate spiking neural networks calibration\". (ICML 2021). \"Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration\". (arXiv 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-09T01:04:04Z",
+            "owner": "yhhhli",
+            "repo": "SNN_Calibration",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "synsense/rockpool",
+          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T08:48:40Z",
+            "owner": "synsense",
+            "repo": "rockpool",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thiswinex/STBP-simple",
+          "description": "A simple direct training implement for SNNs using Spatio-Temporal Backpropagation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-15T13:42:14Z",
+            "owner": "thiswinex",
+            "repo": "STBP-simple",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "romainzimmer/s2net",
+          "description": "Supervised Spiking Network.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-25T13:04:29Z",
+            "owner": "romainzimmer",
+            "repo": "s2net",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STSC-SNN",
+          "description": "Multi-scale spiking network model of macaque visual cortex. \"Multi-scale account of the network structure of macaque visual cortex\". (Brain Structure and Function, 2018). \"A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas\". (PLOS Computational Biology, 2018).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:24:05Z",
+            "owner": "INM-6",
+            "repo": "multi-area-model",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brian2CUDA",
+          "description": "A brian2 extension to simulate spiking neural networks on GPUs. \"Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs\". (Frontiers in Neuroinformatics 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:26:03Z",
+            "owner": "brian-team",
+            "repo": "brian2cuda",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "combra-lab/snn-eeg",
+          "description": "PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware. \"PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware\". (TMLR 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-26T00:44:54Z",
+            "owner": "combra-lab",
+            "repo": "snn-eeg",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ANNarchy",
+          "description": "\"ANNarchy: a code generation approach to neural simulations on parallel hardware\". (Frontiers in Neuroinformatics 2015)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T08:38:30Z",
+            "owner": "ANNarchy",
+            "repo": "ANNarchy",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nengo/pytorch-spiking",
+          "description": "Spiking neuron integration for PyTorch. www.nengo.ai/pytorch-spiking/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T14:25:46Z",
+            "owner": "nengo",
+            "repo": "pytorch-spiking",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhouyanasd/DL-NC",
+          "description": "spiking-neural-networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-04T04:14:05Z",
+            "owner": "zhouyanasd",
+            "repo": "DL-NC",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brain-Cog-Lab/BP-STA",
+          "description": "\"Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks\". (Cell Patterns 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-11T13:12:37Z",
+            "owner": "Brain-Cog-Lab",
+            "repo": "BP-STA",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShahriarSS/Spyker",
+          "description": "High-performance Spiking Neural Networks Library Written From Scratch with C++ and Python Interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-11T15:12:42Z",
+            "owner": "ShahriarRezghi",
+            "repo": "Spyker",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "michaelmelanson/spiking-neural-net",
+          "description": "A spiking neural network simulation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-04T03:56:57Z",
+            "owner": "michaelmelanson",
+            "repo": "spiking-neural-net",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZLkanyo009/STBP-train-and-compression",
+          "description": "STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-03T05:28:55Z",
+            "owner": "ZLkanyo009",
+            "repo": "STBP-train-and-compression",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STSC-SNN",
+          "description": "\"STSC-SNN: Spatio-Temporal Synaptic Connection with temporal convolution and attention for spiking neural networks\". (Frontiers in Neuroscience, 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-24T00:57:11Z",
+            "owner": "Tab-ct",
+            "repo": "STSC-SNN",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpikingSIM",
+          "description": "\"SpikingSIM: A Bio-inspired Spiking Simulator\". (ISCAS 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T10:50:36Z",
+            "owner": "Evin-X",
+            "repo": "SpikingSIM",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brain-Cog-Lab/Conversion_Burst",
+          "description": "\"Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes\". (IJCAI 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-29T01:27:39Z",
+            "owner": "Brain-Cog-Lab",
+            "repo": "Conversion_Burst",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MungoMeng/Spiking-Inception",
+          "description": "A Spiking Inception architecture for unsupervised Spiking Neural Networks (SNNs). \"High-parallelism Inception-like Spiking Neural Networks for Unsupervised Feature Learning\". (Neurocomputing 2021). \"Spiking Inception Module for Multi-layer Unsupervised Spiking Neural Networks\". (IJCNN 2020).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-01T08:39:48Z",
+            "owner": "MungoMeng",
+            "repo": "Spiking-Inception",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-Spike",
+          "description": "\"Real Spike: Learning Real-valued Spikes for Spiking Neural Networks\". (ECCV 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-12T03:42:47Z",
+            "owner": "yfguo91",
+            "repo": "Real-Spike",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BioLCNet",
+          "description": "\"BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks\". (arXiv 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-15T10:46:40Z",
+            "owner": "Singular-Brain",
+            "repo": "BioLCNet",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Borzyszkowski/SNN-CMS",
+          "description": "Spiking Neural Networks accelerated on the Intel Loihi chips for LHC experiments, at CMS detector. Project of the European Organization for Nuclear Research (CERN) in collaboration with Intel Labs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-18T13:32:18Z",
+            "owner": "Borzyszkowski",
+            "repo": "SNN-CMS",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TJXTT/SNN2ANN",
+          "description": "\"SNN2ANN: A Fast and Memory-Efficient Training Framework for Spiking Neural Networks\". (arXiv 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-22T15:36:51Z",
+            "owner": "TJXTT",
+            "repo": "AC2ASNN",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmtiddia/working_memory_spiking_network",
+          "description": "Spiking network model and analysis scripts for the preprint \"Simulations of Working Memory Spiking Networks driven by Short-Term Plasticity\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-19T18:49:53Z",
+            "owner": "gmtiddia",
+            "repo": "working_memory_spiking_network",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sPyMem",
+          "description": "sPyMem: spike-based bio-inspired memory models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T09:00:42Z",
+            "owner": "dancasmor",
+            "repo": "sPyMem",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aggelen/Spayk",
+          "description": "An open source environment for spiking neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T15:27:30Z",
+            "owner": "aggelen",
+            "repo": "Spayk",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathorga/behema",
+          "description": "Spiking neural network implementation inspired by cellular automata for efficiency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T15:51:28Z",
+            "owner": "Mathorga",
+            "repo": "behema",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spike-Driven-Transformer",
+              "description": "Offical implementation of \"Spike-driven Transformer\" (NeurIPS 2023)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-18T06:56:13Z",
+                "owner": "BICLab",
+                "repo": "Spike-Driven-Transformer",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spike-Driven-Transformer-V2",
+              "description": "Offical implementation of \"Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips\" (ICLR 2024)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-10T15:06:37Z",
+                "owner": "BICLab",
+                "repo": "Spike-Driven-Transformer-V2",
+                "stars": 230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attention-SNN",
+              "description": "Offical implementation of \"Attention Spiking Neural Networks\" (IEEE TPAMI 2023)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-20T01:48:40Z",
+                "owner": "BICLab",
+                "repo": "Attention-SNN",
+                "stars": 88
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spike-Driven-Transformer",
+              "description": "Offical implementation of \"Spike-driven Transformer\" (NeurIPS 2023)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-18T06:56:13Z",
+                "owner": "BICLab",
+                "repo": "Spike-Driven-Transformer",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpikeYOLO",
+              "description": "Offical implementation of \"Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection\" (ECCV 2024 Oral)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-30T05:52:54Z",
+                "owner": "BICLab",
+                "repo": "SpikeYOLO",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spike-Driven-Transformer-V2",
+              "description": "Offical implementation of \"Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips\" (ICLR 2024)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-10T15:06:37Z",
+                "owner": "BICLab",
+                "repo": "Spike-Driven-Transformer-V2",
+                "stars": 230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spiking-YOLOv3",
+              "description": "A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3(ultralytics/yolov3 & eriklindernoren/PyTorch-YOLOv3), with support for Spiking-YOLOv3-Tiny at present. (AAAI 2020)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-03-23T10:39:08Z",
+                "owner": "cwq159",
+                "repo": "PyTorch-Spiking-YOLOv3",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EMS-YOLO",
+              "description": "Offical implementation of \"Deep Directly-Trained Spiking Neural Networks for Object Detection\" (ICCV 2023)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-21T10:26:20Z",
+                "owner": "BICLab",
+                "repo": "EMS-YOLO",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attention-SNN",
+              "description": "Offical implementation of \"Attention Spiking Neural Networks\" (IEEE TPAMI 2023)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-20T01:48:40Z",
+                "owner": "BICLab",
+                "repo": "Attention-SNN",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loiccordone/object-detection-with-spiking-neural-networks",
+              "description": "\"Object Detection with Spiking Neural Networks on Automotive Event Data\". (IJCNN 2022)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-16T23:37:14Z",
+                "owner": "loiccordone",
+                "repo": "object-detection-with-spiking-neural-networks",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fjcu-ee-islab/Spiking_Converted_YOLOv4",
+              "description": "Object Detection Based on Dynamic Vision Sensor with Spiking Neural Network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-29T06:12:42Z",
+                "owner": "fjcu-ee-islab",
+                "repo": "Spiking_Converted_YOLOv4",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zaabon/spiking_yolo",
+              "description": "This project is a combined neural network utilizing an spiking CNN with backpropagation and YOLOv3 for object detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-03-24T11:43:41Z",
+                "owner": "Zaabon",
+                "repo": "spiking_yolo",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beauty-girl-cxy/spiking-yolov5",
+              "description": "spiking-yolov5.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-08-23T07:35:54Z",
+                "owner": "LittleRain626",
+                "repo": "spiking-yolov5",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dignity-ghost/PyTorch-Spiking-YOLOv3",
+              "description": "A modified repository based on Spiking-YOLOv3 and YOLOv3, which makes it suitable for VOC-dataset and YOLOv2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-09-15T05:44:33Z",
+                "owner": "Dignity-ghost",
+                "repo": "PyTorch-Spiking-YOLOv3",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arsalikhov/PSYCH420_final_project",
+              "description": "Goal of the project is to train an Object-Detection model using Spiking Neural Network on COCO dataset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-04-12T18:32:32Z",
+                "owner": "arsalikhov",
+                "repo": "PSYCH420_final_project",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "freek9807/SNN-NMNIST-Object-Recognition",
+              "description": "An object recognition model for NMNIST larger video frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-24T13:57:24Z",
+                "owner": "halykoss",
+                "repo": "SNN-NMNIST-Object-Recognition",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ssharmin/spikingNN-adversarial-attack",
+              "description": "FGSM and PGD adversarial attack on Spiking Neural Network (SNN).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-08-21T15:38:22Z",
+                "owner": "ssharmin",
+                "repo": "spikingNN-adversarial-attack",
+                "stars": 16
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flinkerlab/neural_speech_decoding",
+              "description": "Neural Speech Decoding. \"A neural speech decoding framework leveraging deep learning and speech synthesis\". (Nature, 2024). \"微信公众号「量子位」《脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源》\"。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-08T16:12:13Z",
+                "owner": "flinkerlab",
+                "repo": "neural_speech_decoding",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "comob-project/snn-sound-localization",
+              "description": "Training spiking neural networks for sound localization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-12-11T16:33:25Z",
+                "owner": "comob-project",
+                "repo": "snn-sound-localization",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyNAVIS",
+              "description": "\"PyNAVIS: An open-source cross-platform software for spike-based neuromorphic audio information processing\". (Neurocomputing, 2021)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-22T15:50:06Z",
+                "owner": "jpdominguez",
+                "repo": "pyNAVIS",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uzh-rpg/snn_angular_velocity",
+              "description": "\"Event-Based Angular Velocity Regression with Spiking Networks\". (ICRA 2020)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-06T11:10:48Z",
+                "owner": "uzh-rpg",
+                "repo": "snn_angular_velocity",
+                "stars": 115
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "metr0jw/Spiking-Neural-Network-on-FPGA",
+              "description": "Leaky Integrate and Fire (LIF) model implementation for FPGA.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2025-11-04T14:37:54Z",
+                "owner": "ljiwoon",
+                "repo": "Spiking-Neural-Network-on-FPGA",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Applications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:14.613Z",
+    "original_repository": "coderonion/awesome-snn",
+    "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
+    "enhanced_repository": "enhansome/enhansome-snn",
+    "enhanced_repository_description": null,
+    "title": "Awesome-SNN with stars"
+  }
+}
