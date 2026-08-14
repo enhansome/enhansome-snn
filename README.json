@@ -14,7 +14,7 @@
             "last_commit": "2026-07-07T07:54:41Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3615
+            "stars": 3617
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-17T22:48:42Z",
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 516
+            "stars": 518
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:15:02Z",
+            "last_commit": "2026-08-13T18:23:44Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2097
+            "stars": 2099
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2024-06-03T17:18:14Z",
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1856
+            "stars": 1855
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1691
+            "stars": 1693
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1213
+            "stars": 1215
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 642
+            "stars": 643
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -1133,7 +1133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:14.613Z",
+    "last_updated": "2026-08-14T04:27:38.054Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
     "enhanced_repository": "enhansome/enhansome-snn",
