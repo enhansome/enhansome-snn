@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-07T07:54:41Z",
+            "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3617
+            "stars": 3619
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-13T18:23:44Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2099
+            "stars": 2101
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-06-29T13:27:42Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2027
+            "stars": 2028
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-07T19:57:17Z",
             "owner": "norse",
             "repo": "norse",
-            "stars": 815
+            "stars": 816
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-02-05T02:55:37Z",
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -801,7 +801,7 @@
                 "last_commit": "2024-05-10T15:06:37Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 230
+                "stars": 232
               }
             },
             {
@@ -864,7 +864,7 @@
                 "last_commit": "2024-05-10T15:06:37Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 230
+                "stars": 232
               }
             },
             {
@@ -1133,7 +1133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:27:38.054Z",
+    "last_updated": "2026-08-15T03:21:53.773Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
     "enhanced_repository": "enhansome/enhansome-snn",
