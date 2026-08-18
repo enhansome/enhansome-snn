@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3622
+            "stars": 3623
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2346
+            "stars": 2345
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:23:57Z",
+            "last_commit": "2026-08-17T12:30:31Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2103
+            "stars": 2104
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1696
+            "stars": 1697
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-07T19:57:17Z",
             "owner": "norse",
             "repo": "norse",
-            "stars": 818
+            "stars": 819
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2024-07-31T11:31:14Z",
             "owner": "BasBuller",
             "repo": "PySNN",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-02-05T02:55:37Z",
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -479,7 +479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T16:09:41Z",
+            "last_commit": "2026-08-17T12:04:50Z",
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 79
@@ -1133,7 +1133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:32:20.574Z",
+    "last_updated": "2026-08-18T03:26:19.680Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
     "enhanced_repository": "enhansome/enhansome-snn",

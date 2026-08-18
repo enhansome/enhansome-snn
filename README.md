@@ -1,6 +1,6 @@
 # Awesome-SNN with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,636 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,041 | 🐛 102 | 📅 2026-06-30
 
 🔥🔥🔥 This repository lists some awesome SNN(Spiking Neural Network) projects.
 
@@ -22,7 +22,7 @@
 
 ## Review
 
-* [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) ⭐ 3,622 | 🐛 1 | 📅 2026-08-14 <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources.
+* [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) ⭐ 3,623 | 🐛 1 | 📅 2026-08-14 <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources.
 
 * [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) ⭐ 518 | 🐛 0 | 🌐 Python | 📅 2026-05-17 <img src="https://img.shields.io/github/stars/SpikingChen/SNN-Daily-Arxiv?style=social"/> : Update arXiv papers about Spiking Neural Networks daily.
 
@@ -44,15 +44,15 @@
 
 ## Frameworks
 
-* [NCPs](https://github.com/mlech26l/ncps) ⭐ 2,346 | 🐛 28 | 🌐 Python | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/mlech26l/ncps?style=social"/> : PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models. "Neural circuit policies enabling auditable autonomy". (**[Nature Machine Intelligence, 2020](https://www.nature.com/articles/s42256-020-00237-3)**)
+* [NCPs](https://github.com/mlech26l/ncps) ⭐ 2,345 | 🐛 28 | 🌐 Python | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/mlech26l/ncps?style=social"/> : PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models. "Neural circuit policies enabling auditable autonomy". (**[Nature Machine Intelligence, 2020](https://www.nature.com/articles/s42256-020-00237-3)**)
 
-* [SpikingJelly | 惊蜇](https://github.com/fangwei123456/spikingjelly) ⭐ 2,103 | 🐛 126 | 🌐 Python | 📅 2026-08-16 <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/> : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。[spikingjelly.readthedocs.io](https://spikingjelly.readthedocs.io/zh_CN/latest/)
+* [SpikingJelly | 惊蜇](https://github.com/fangwei123456/spikingjelly) ⭐ 2,104 | 🐛 126 | 🌐 Python | 📅 2026-08-17 <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/> : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。[spikingjelly.readthedocs.io](https://spikingjelly.readthedocs.io/zh_CN/latest/)
 
 * [snntorch](https://github.com/jeshraghian/snntorch) ⭐ 2,029 | 🐛 86 | 🌐 Python | 📅 2026-06-29 <img src="https://img.shields.io/github/stars/jeshraghian/snntorch?style=social"/> : Deep and online learning with spiking neural networks in Python. "Training Spiking Neural Networks Using Lessons From Deep Learning". (**[arXiv 2021](https://arxiv.org/abs/2109.12894)**)
 
 * [LTCs](https://github.com/raminmh/liquid_time_constant_networks) ⭐ 1,855 | 🐛 9 | 🌐 Python | 📅 2024-06-03 <img src="https://img.shields.io/github/stars/raminmh/liquid_time_constant_networks?style=social"/> : "Liquid Time-constant Networks". (**[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16936)**)
 
-* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,696 | 🐛 15 | 🌐 Python | 📅 2026-08-09 <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/> : Simulation of spiking neural networks (SNNs) using PyTorch.
+* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,697 | 🐛 15 | 🌐 Python | 📅 2026-08-09 <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/> : Simulation of spiking neural networks (SNNs) using PyTorch.
 
 * [Brian2](https://github.com/brian-team/brian2) ⭐ 1,217 | 🐛 205 | 🌐 Python | 📅 2026-08-01 <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/> : Brian is a free, open source simulator for spiking neural networks. "Brian 2, an intuitive and efficient neural simulator". (**[Elife 2019](https://elifesciences.org/articles/47314)**)
 
@@ -60,7 +60,7 @@
 
 * [CfC](https://github.com/raminmh/CfC) ⭐ 1,052 | 🐛 11 | 🌐 Python | 📅 2024-07-05 <img src="https://img.shields.io/github/stars/raminmh/CfC?style=social"/> : "Closed-form continuous-time neural networks". (**[Nature Machine Intelligence, 2022](https://www.nature.com/articles/s42256-022-00556-7)**)
 
-* [norse](https://github.com/norse/norse) ⭐ 818 | 🐛 64 | 🌐 Python | 📅 2026-07-07 <img src="https://img.shields.io/github/stars/norse/norse?style=social"/> : Deep learning with spiking neural networks (SNNs) in PyTorch.
+* [norse](https://github.com/norse/norse) ⭐ 819 | 🐛 64 | 🌐 Python | 📅 2026-07-07 <img src="https://img.shields.io/github/stars/norse/norse?style=social"/> : Deep learning with spiking neural networks (SNNs) in PyTorch.
 
 * [BrainCog | 智脉](https://github.com/BrainCog-X/Brain-Cog) ⭐ 643 | 🐛 30 | 🌐 Python | 📅 2025-11-06 <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage <http://www.brain-cog.network/>. "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
 
@@ -74,15 +74,15 @@
 
 * [yjwu17/STBP-for-training-SpikingNN](https://github.com/yjwu17/STBP-for-training-SpikingNN) ⭐ 243 | 🐛 5 | 🌐 Python | 📅 2022-05-17 <img src="https://img.shields.io/github/stars/yjwu17/STBP-for-training-SpikingNN?style=social"/> : Spatio-temporal BP for spiking neural networks.
 
-* [PySNN](https://github.com/BasBuller/PySNN) ⭐ 233 | 🐛 4 | 🌐 Python | 📅 2024-07-31 <img src="https://img.shields.io/github/stars/BasBuller/PySNN?style=social"/> : Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
+* [PySNN](https://github.com/BasBuller/PySNN) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2024-07-31 <img src="https://img.shields.io/github/stars/BasBuller/PySNN?style=social"/> : Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
 
-* [Spike-Element-Wise-ResNet](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 197 | 🐛 12 | 🌐 Python | 📅 2022-08-09 <img src="https://img.shields.io/github/stars/fangwei123456/Spike-Element-Wise-ResNet?style=social"/> : "Deep residual learning in spiking neural networks". (**[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)**)
+* [Spike-Element-Wise-ResNet](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 198 | 🐛 12 | 🌐 Python | 📅 2022-08-09 <img src="https://img.shields.io/github/stars/fangwei123456/Spike-Element-Wise-ResNet?style=social"/> : "Deep residual learning in spiking neural networks". (**[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)**)
 
 * [cuSNN](https://github.com/tudelft/cuSNN) ⭐ 137 | 🐛 2 | 🌐 Cuda | 📅 2020-07-03 <img src="https://img.shields.io/github/stars/tudelft/cuSNN?style=social"/> : Spiking Neural Networks in C++ with strong GPU acceleration through CUDA. "Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception". (**[TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/8660483/)**)
 
 * [VOneNets](https://github.com/dicarlolab/vonenet) ⭐ 127 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2025-01-08 <img src="https://img.shields.io/github/stars/dicarlolab/vonenet?style=social"/> : "Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations". (**[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html)**)
 
-* [Sinabs](https://github.com/synsense/sinabs) ⭐ 120 | 🐛 27 | 🌐 Python | 📅 2026-02-05 <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/> : Spiking neural network library based on PyTorch.
+* [Sinabs](https://github.com/synsense/sinabs) ⭐ 121 | 🐛 27 | 🌐 Python | 📅 2026-02-05 <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/> : Spiking neural network library based on PyTorch.
 
 * [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2026-05-07 <img src="https://img.shields.io/github/stars/ZhejianglabNCRC/SPAIC?style=social"/> : Spike-based artificial intelligence computing platform. "Darwin-S: A Reference Software Architecture for Brain-Inspired Computers". (**[IEEE Computer 2022](https://ieeexplore.ieee.org/abstract/document/9771131)**)
 
@@ -96,7 +96,7 @@
 
 * [STSC-SNN](https://github.com/INM-6/multi-area-model) ⭐ 80 | 🐛 8 | 🌐 Python | 📅 2026-08-03 <img src="https://img.shields.io/github/stars/INM-6/multi-area-model?style=social"/> : Multi-scale spiking network model of macaque visual cortex. "Multi-scale account of the network structure of macaque visual cortex". (**[Brain Structure and Function, 2018](https://link.springer.com/article/10.1007/s00429-017-1554-4)**). "A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas". (**[PLOS Computational Biology, 2018](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)**).
 
-* [Brian2CUDA](https://github.com/brian-team/brian2cuda) ⭐ 79 | 🐛 138 | 🌐 Python | 📅 2026-08-16 <img src="https://img.shields.io/github/stars/brian-team/brian2cuda?style=social"/> : A brian2 extension to simulate spiking neural networks on GPUs. "Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs". (**[Frontiers in Neuroinformatics 2022](https://www.frontiersin.org/articles/10.3389/fninf.2022.883700/abstract14)**)
+* [Brian2CUDA](https://github.com/brian-team/brian2cuda) ⭐ 79 | 🐛 138 | 🌐 Python | 📅 2026-08-17 <img src="https://img.shields.io/github/stars/brian-team/brian2cuda?style=social"/> : A brian2 extension to simulate spiking neural networks on GPUs. "Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs". (**[Frontiers in Neuroinformatics 2022](https://www.frontiersin.org/articles/10.3389/fninf.2022.883700/abstract14)**)
 
 * [combra-lab/snn-eeg](https://github.com/combra-lab/snn-eeg) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2022-06-26 <img src="https://img.shields.io/github/stars/combra-lab/snn-eeg?style=social"/> : PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware. "PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware". (**[TMLR 2022](https://openreview.net/forum?id=ZPBJPGX3Bz)**)
 
@@ -158,7 +158,7 @@
 
   * [Spike-Driven-Transformer-V2](https://github.com/BICLab/Spike-Driven-Transformer-V2) ⭐ 232 | 🐛 1 | 🌐 Python | 📅 2024-05-10 <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer-V2?style=social"/> : Offical implementation of "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips" (**[ICLR 2024](https://openreview.net/forum?id=1SIBN5Xyw7)**)
 
-  * [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) ⭐ 224 | 🐛 58 | 🌐 Python | 📅 2021-03-23 <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) ⭐ 10,590 | 🐛 4 | 🌐 Python | 📅 2026-08-15 & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) ⭐ 7,440 | 🐛 114 | 🌐 Python | 📅 2024-11-17), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
+  * [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) ⭐ 224 | 🐛 58 | 🌐 Python | 📅 2021-03-23 <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) ⭐ 10,591 | 🐛 4 | 🌐 Python | 📅 2026-08-15 & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) ⭐ 7,440 | 🐛 114 | 🌐 Python | 📅 2024-11-17), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
 
   * [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) ⭐ 195 | 🐛 23 | 🌐 Python | 📅 2025-04-21 <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
 
@@ -257,4 +257,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
