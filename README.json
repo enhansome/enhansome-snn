@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3623
+            "stars": 3624
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-17T22:48:42Z",
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 518
+            "stars": 517
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2345
+            "stars": 2344
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:30:31Z",
+            "last_commit": "2026-08-18T15:11:06Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2104
@@ -146,7 +146,7 @@
             "last_commit": "2026-06-29T13:27:42Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2029
+            "stars": 2031
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1217
+            "stars": 1218
           }
         },
         {
@@ -507,7 +507,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-22T08:38:30Z",
+            "last_commit": "2026-08-18T16:11:03Z",
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46
@@ -1133,7 +1133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:26:19.680Z",
+    "last_updated": "2026-08-19T03:28:23.208Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
     "enhanced_repository": "enhansome/enhansome-snn",
