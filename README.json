@@ -156,7 +156,7 @@
             "last_commit": "2026-06-29T13:27:42Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2032
+            "stars": 2031
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1218
+            "stars": 1219
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-07-07T19:57:17Z",
             "owner": "norse",
             "repo": "norse",
-            "stars": 819
+            "stars": 818
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 643
+            "stars": 644
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-07-03T08:48:40Z",
             "owner": "synsense",
             "repo": "rockpool",
-            "stars": 89
+            "stars": 88
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 45057564,
             "language": "Python",
-            "last_commit": "2026-08-17T12:04:50Z",
+            "last_commit": "2026-08-19T14:11:39Z",
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 79
@@ -531,7 +531,7 @@
             "last_commit": "2022-06-26T00:44:54Z",
             "owner": "combra-lab",
             "repo": "snn-eeg",
-            "stars": 54
+            "stars": 53
           }
         },
         {
@@ -857,7 +857,7 @@
                 "last_commit": "2024-05-10T15:06:37Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 232
+                "stars": 231
               }
             },
             {
@@ -924,7 +924,7 @@
                 "last_commit": "2024-05-10T15:06:37Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 232
+                "stars": 231
               }
             },
             {
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:38.843Z",
+    "last_updated": "2026-08-20T03:28:34.505Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
