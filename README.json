@@ -30,7 +30,7 @@
             "last_commit": "2026-05-17T22:48:42Z",
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 517
+            "stars": 518
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2344
+            "stars": 2343
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-19T09:41:09Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2104
+            "stars": 2106
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 120948040,
             "language": "Python",
-            "last_commit": "2026-08-09T07:00:29Z",
+            "last_commit": "2026-08-20T15:19:52Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1697
+            "stars": 1695
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2022-07-29T05:45:51Z",
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 57382690,
             "language": "Python",
-            "last_commit": "2026-08-19T11:35:58Z",
+            "last_commit": "2026-08-20T09:34:46Z",
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46
@@ -954,7 +954,7 @@
                 "last_commit": "2025-04-21T10:26:20Z",
                 "owner": "BICLab",
                 "repo": "EMS-YOLO",
-                "stars": 195
+                "stars": 196
               }
             },
             {
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:28:34.505Z",
+    "last_updated": "2026-08-21T03:34:38.844Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
