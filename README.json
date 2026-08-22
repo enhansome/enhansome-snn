@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3625
+            "stars": 3629
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2343
+            "stars": 2344
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-19T09:41:09Z",
+            "last_commit": "2026-08-21T18:32:04Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2106
@@ -156,7 +156,7 @@
             "last_commit": "2026-06-29T13:27:42Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2031
+            "stars": 2033
           }
         },
         {
@@ -909,7 +909,7 @@
                 "last_commit": "2025-06-30T05:52:54Z",
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:34:38.844Z",
+    "last_updated": "2026-08-22T03:24:32.371Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
