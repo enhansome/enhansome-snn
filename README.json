@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3630
+            "stars": 3631
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-17T22:48:42Z",
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 518
+            "stars": 519
           }
         },
         {
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:36:42.808Z",
+    "last_updated": "2026-08-24T14:32:19.549Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
