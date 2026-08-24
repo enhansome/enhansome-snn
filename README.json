@@ -138,10 +138,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-22T18:49:15Z",
+            "last_commit": "2026-08-23T17:10:50Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2106
+            "stars": 2107
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 299443676,
             "language": "Python",
-            "last_commit": "2026-06-29T13:27:42Z",
+            "last_commit": "2026-08-23T22:01:24Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2033
+            "stars": 2034
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1219
+            "stars": 1220
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 45057564,
             "language": "Python",
-            "last_commit": "2026-08-22T21:48:17Z",
+            "last_commit": "2026-08-23T09:00:01Z",
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 79
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:34:21.234Z",
+    "last_updated": "2026-08-24T03:36:42.808Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
