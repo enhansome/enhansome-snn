@@ -138,7 +138,7 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-23T17:10:50Z",
+            "last_commit": "2026-08-25T03:18:55Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2107
@@ -231,7 +231,7 @@
             "last_commit": "2024-07-05T00:34:15Z",
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1052
+            "stars": 1053
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-08-23T09:00:01Z",
             "owner": "brian-team",
             "repo": "brian2cuda",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -1197,7 +1197,7 @@
                 "id": 1089582731,
                 "language": null,
                 "last_commit": "2025-11-04T14:37:54Z",
-                "owner": "ljiwoon",
+                "owner": "jiwoonl",
                 "repo": "Spiking-Neural-Network-on-FPGA",
                 "stars": 0
               }
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:19.549Z",
+    "last_updated": "2026-08-25T03:29:46.286Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
