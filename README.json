@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3631
+            "stars": 3632
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2021-05-08T07:12:54Z",
             "owner": "XDUSPONGE",
             "repo": "SNN_benchmark",
-            "stars": 257
+            "stars": 256
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-25T03:18:55Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2107
+            "stars": 2108
           }
         },
         {
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:29:46.286Z",
+    "last_updated": "2026-08-25T06:25:02.163Z",
     "original_repository": "coderonion/awesome-snn",
     "original_repository_id": 477986437,
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
