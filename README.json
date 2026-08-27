@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3633
+            "stars": 3634
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-25T16:27:27Z",
+            "last_commit": "2026-08-27T10:23:45Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2107
+            "stars": 2111
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-23T22:01:24Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2035
+            "stars": 2037
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-06-03T17:18:14Z",
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1855
+            "stars": 1857
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1220
+            "stars": 1222
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 645
+            "stars": 646
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-06-18T09:35:11Z",
             "owner": "fzenke",
             "repo": "spytorch",
-            "stars": 361
+            "stars": 362
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 45057564,
             "language": "Python",
-            "last_commit": "2026-08-25T14:50:24Z",
+            "last_commit": "2026-08-27T09:24:10Z",
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 80
@@ -1209,9 +1209,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:38:08.701Z",
-    "original_repository": "coderonion/awesome-snn",
-    "original_repository_id": 477986437,
+    "last_updated": "2026-08-27T12:04:10.953Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 477986437,
+      "language": null,
+      "last_commit": "2024-10-01T08:01:29Z",
+      "owner": "coderonion",
+      "repo": "awesome-snn",
+      "stars": 237
+    },
     "original_repository_sha": "78110803d71aee6d6bd4ccb5bd19e134ec51785b",
     "enhanced_repository": "enhansome/enhansome-snn",
     "enhanced_repository_description": null,
