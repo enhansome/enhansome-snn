@@ -16,7 +16,8 @@
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
             "stars": 3634
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "XDUSPONGE",
             "repo": "SNN_benchmark",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "realamirhe",
             "repo": "awesome-computational-neuro-science",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "vvvityaaa",
             "repo": "awesome-spiking-neural-networks",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "shenhaibo123",
             "repo": "SNN_arxiv_daily",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "TheAwesomeAndy",
             "repo": "Awesome_SNN_Reads",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         }
       ],
       "title": "Review"
@@ -127,7 +134,8 @@
             "owner": "mlech26l",
             "repo": "ncps",
             "stars": 2345
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-27T12:46:33Z",
+            "last_commit": "2026-08-28T14:07:09Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2111
-          }
+            "stars": 2113
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 299443676,
             "language": "Python",
-            "last_commit": "2026-08-23T22:01:24Z",
+            "last_commit": "2026-08-27T22:17:27Z",
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2037
-          }
+            "stars": 2038
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
             "stars": 1857
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1695
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "brian-team",
             "repo": "brian2",
             "stars": 1222
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
             "stars": 1210
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "raminmh",
             "repo": "CfC",
             "stars": 1053
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "norse",
             "repo": "norse",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 646
-          }
+            "stars": 647
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "fzenke",
             "repo": "spytorch",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "bamsumit",
             "repo": "slayerPytorch",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "guillaume-chevalier",
             "repo": "Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "yjwu17",
             "repo": "STBP-for-training-SpikingNN",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "BasBuller",
             "repo": "PySNN",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "tudelft",
             "repo": "cuSNN",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "dicarlolab",
             "repo": "vonenet",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "synsense",
             "repo": "sinabs",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "zju-bmi-lab",
             "repo": "SPAIC",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "yhhhli",
             "repo": "SNN_Calibration",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "synsense",
             "repo": "rockpool",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "thiswinex",
             "repo": "STBP-simple",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "romainzimmer",
             "repo": "s2net",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "INM-6",
             "repo": "multi-area-model",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "combra-lab",
             "repo": "snn-eeg",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "nengo",
             "repo": "pytorch-spiking",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "zhouyanasd",
             "repo": "DL-NC",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "Brain-Cog-Lab",
             "repo": "BP-STA",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "ShahriarRezghi",
             "repo": "Spyker",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "michaelmelanson",
             "repo": "spiking-neural-net",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "ZLkanyo009",
             "repo": "STBP-train-and-compression",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "Tab-ct",
             "repo": "STSC-SNN",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "Evin-X",
             "repo": "SpikingSIM",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "Brain-Cog-Lab",
             "repo": "Conversion_Burst",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "MungoMeng",
             "repo": "Spiking-Inception",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "yfguo91",
             "repo": "Real-Spike",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "Singular-Brain",
             "repo": "BioLCNet",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "Borzyszkowski",
             "repo": "SNN-CMS",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "TJXTT",
             "repo": "AC2ASNN",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "gmtiddia",
             "repo": "working_memory_spiking_network",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "dancasmor",
             "repo": "sPyMem",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "aggelen",
             "repo": "Spayk",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "Mathorga",
             "repo": "behema",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
         }
       ],
       "title": "Frameworks"
@@ -843,7 +897,8 @@
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -858,7 +913,8 @@
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -873,7 +929,8 @@
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         },
@@ -895,7 +952,8 @@
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -910,7 +968,8 @@
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -925,7 +984,8 @@
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -940,7 +1000,8 @@
                 "owner": "cwq159",
                 "repo": "PyTorch-Spiking-YOLOv3",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1016,8 @@
                 "owner": "BICLab",
                 "repo": "EMS-YOLO",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -970,7 +1032,8 @@
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -985,7 +1048,8 @@
                 "owner": "loiccordone",
                 "repo": "object-detection-with-spiking-neural-networks",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1000,7 +1064,8 @@
                 "owner": "fjcu-ee-islab",
                 "repo": "Spiking_Converted_YOLOv4",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1015,7 +1080,8 @@
                 "owner": "Zaabon",
                 "repo": "spiking_yolo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1030,7 +1096,8 @@
                 "owner": "LittleRain626",
                 "repo": "spiking-yolov5",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1112,8 @@
                 "owner": "Dignity-ghost",
                 "repo": "PyTorch-Spiking-YOLOv3",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1060,7 +1128,8 @@
                 "owner": "arsalikhov",
                 "repo": "PSYCH420_final_project",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         },
@@ -1082,7 +1151,8 @@
                 "owner": "halykoss",
                 "repo": "SNN-NMNIST-Object-Recognition",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         },
@@ -1104,7 +1174,8 @@
                 "owner": "ssharmin",
                 "repo": "spikingNN-adversarial-attack",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         },
@@ -1126,7 +1197,8 @@
                 "owner": "flinkerlab",
                 "repo": "neural_speech_decoding",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1213,8 @@
                 "owner": "comob-project",
                 "repo": "snn-sound-localization",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1229,8 @@
                 "owner": "jpdominguez",
                 "repo": "pyNAVIS",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         },
@@ -1178,7 +1252,8 @@
                 "owner": "uzh-rpg",
                 "repo": "snn_angular_velocity",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         },
@@ -1200,7 +1275,8 @@
                 "owner": "jiwoonl",
                 "repo": "Spiking-Neural-Network-on-FPGA",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:35:08.817Z"
             }
           ]
         }
@@ -1209,7 +1285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:05:16.603Z",
+    "last_updated": "2026-08-28T14:35:08.817Z",
     "original_repository_info": {
       "archived": false,
       "id": 477986437,
