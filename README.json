@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3634,
+            "stars": 3635,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,8 +211,8 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T08:04:54Z",
-            "open_issues": 126,
+            "last_commit": "2026-08-30T05:28:16Z",
+            "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2113,
@@ -239,11 +239,11 @@
             "id": 299443676,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T22:17:27Z",
-            "open_issues": 72,
+            "last_commit": "2026-08-29T16:18:25Z",
+            "open_issues": 71,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2039,
+            "stars": 2040,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -299,7 +299,7 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-20T15:19:52Z",
+            "last_commit": "2026-08-29T18:26:22Z",
             "open_issues": 15,
             "owner": "BindsNET",
             "repo": "bindsnet",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:22:36.688Z",
+    "last_updated": "2026-08-30T08:32:13.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
