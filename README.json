@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3635,
+            "stars": 3637,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2345,
+            "stars": 2346,
             "topics": [
               "cfc",
               "keras",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T05:28:16Z",
-            "open_issues": 127,
+            "last_commit": "2026-08-31T03:22:49Z",
+            "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "deep-learning",
               "dvs",
@@ -239,11 +239,11 @@
             "id": 299443676,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:18:25Z",
+            "last_commit": "2026-08-30T16:31:34Z",
             "open_issues": 71,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2040,
+            "stars": 2041,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -428,7 +428,7 @@
             "open_issues": 64,
             "owner": "norse",
             "repo": "norse",
-            "stars": 818,
+            "stars": 819,
             "topics": [
               "autograd",
               "deep-learning",
@@ -710,7 +710,7 @@
             "open_issues": 27,
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -778,7 +778,7 @@
             "open_issues": 4,
             "owner": "synsense",
             "repo": "rockpool",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "deployment",
               "jax",
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -1490,7 +1490,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:32:13.800Z",
+    "last_updated": "2026-08-31T08:53:55.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
