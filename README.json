@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3637,
+            "stars": 3636,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2346,
+            "stars": 2347,
             "topics": [
               "cfc",
               "keras",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T03:22:49Z",
+            "last_commit": "2026-09-01T05:14:59Z",
             "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2112,
+            "stars": 2114,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 71,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2041,
+            "stars": 2040,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -275,7 +275,7 @@
             "open_issues": 9,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1859,
+            "stars": 1861,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T18:26:22Z",
-            "open_issues": 15,
+            "last_commit": "2026-08-31T20:17:41Z",
+            "open_issues": 10,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1695,
@@ -332,11 +332,11 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-01T09:02:50Z",
-            "open_issues": 207,
+            "last_commit": "2026-09-01T01:06:08Z",
+            "open_issues": 212,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "biological-simulations",
               "brian",
@@ -642,7 +642,7 @@
             "open_issues": 12,
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 198,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1913,7 +1913,7 @@
                 "open_issues": 2,
                 "owner": "uzh-rpg",
                 "repo": "snn_angular_velocity",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "event-cameras",
                   "spiking-neural-networks"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:53:55.251Z",
+    "last_updated": "2026-09-01T07:59:00.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
