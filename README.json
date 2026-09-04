@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T09:21:25Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-03T07:46:13Z",
+            "open_issues": 131,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2114,
+            "stars": 2116,
             "topics": [
               "deep-learning",
               "dvs",
@@ -275,7 +275,7 @@
             "open_issues": 9,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1861,
+            "stars": 1862,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -332,7 +332,7 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T13:25:43Z",
+            "last_commit": "2026-09-03T11:22:57Z",
             "open_issues": 207,
             "owner": "brian-team",
             "repo": "brian2",
@@ -710,7 +710,7 @@
             "open_issues": 28,
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:22:25.544Z",
+    "last_updated": "2026-09-04T07:24:53.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
