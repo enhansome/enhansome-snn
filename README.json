@@ -215,7 +215,7 @@
             "open_issues": 131,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "deep-learning",
               "dvs",
@@ -239,11 +239,11 @@
             "id": 299443676,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:00:11Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-05T17:41:50Z",
+            "open_issues": 68,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2041,
+            "stars": 2040,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -336,7 +336,7 @@
             "open_issues": 207,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "biological-simulations",
               "brian",
@@ -428,7 +428,7 @@
             "open_issues": 64,
             "owner": "norse",
             "repo": "norse",
-            "stars": 819,
+            "stars": 818,
             "topics": [
               "autograd",
               "deep-learning",
@@ -460,7 +460,7 @@
             "open_issues": 30,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:06:37.803Z",
+    "last_updated": "2026-09-06T07:18:03.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
