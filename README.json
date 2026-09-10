@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3639,
+            "stars": 3640,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T15:26:54Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-09T17:28:29Z",
+            "open_issues": 123,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2122,
+            "stars": 2126,
             "topics": [
               "deep-learning",
               "dvs",
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T16:39:44Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2041,
+            "stars": 2043,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -303,7 +303,7 @@
             "open_issues": 8,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1697,
+            "stars": 1698,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -336,7 +336,7 @@
             "open_issues": 207,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1226,
+            "stars": 1227,
             "topics": [
               "biological-simulations",
               "brian",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -428,7 +428,7 @@
             "open_issues": 64,
             "owner": "norse",
             "repo": "norse",
-            "stars": 819,
+            "stars": 818,
             "topics": [
               "autograd",
               "deep-learning",
@@ -460,7 +460,7 @@
             "open_issues": 30,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:33:57.079Z",
+    "last_updated": "2026-09-10T07:30:30.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
