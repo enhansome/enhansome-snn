@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3640,
+            "stars": 3641,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2348,
+            "stars": 2349,
             "topics": [
               "cfc",
               "keras",
@@ -215,7 +215,7 @@
             "open_issues": 123,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2126,
+            "stars": 2128,
             "topics": [
               "deep-learning",
               "dvs",
@@ -303,7 +303,7 @@
             "open_issues": 8,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1698,
+            "stars": 1699,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -460,7 +460,7 @@
             "open_issues": 30,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -834,6 +834,42 @@
         },
         {
           "node_type": "item",
+          "title": "Brian2CUDA",
+          "description": "A brian2 extension to simulate spiking neural networks on GPUs. \"Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs\". (Frontiers in Neuroinformatics 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A brian2 extension to simulate spiking neural networks on GPUs",
+            "homepage": "https://brian2cuda.readthedocs.io/",
+            "id": 45057564,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-11T00:43:17Z",
+            "open_issues": 137,
+            "owner": "brian-team",
+            "repo": "brian2cuda",
+            "stars": 81,
+            "topics": [
+              "biological-simulations",
+              "brian",
+              "brian2",
+              "code-generation",
+              "computational-neuroscience",
+              "differential-equations",
+              "gpu",
+              "gpu-acceleration",
+              "neuroscience",
+              "python",
+              "science",
+              "simulation",
+              "simulation-framework",
+              "spiking-neural-networks"
+            ]
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
           "title": "STSC-SNN",
           "description": "Multi-scale spiking network model of macaque visual cortex. \"Multi-scale account of the network structure of macaque visual cortex\". (Brain Structure and Function, 2018). \"A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas\". (PLOS Computational Biology, 2018).",
           "children": [],
@@ -861,42 +897,6 @@
               "primates",
               "simulation",
               "theoretical-neuroanatomy"
-            ]
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Brian2CUDA",
-          "description": "A brian2 extension to simulate spiking neural networks on GPUs. \"Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs\". (Frontiers in Neuroinformatics 2022)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A brian2 extension to simulate spiking neural networks on GPUs",
-            "homepage": "https://brian2cuda.readthedocs.io/",
-            "id": 45057564,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-07T18:02:04Z",
-            "open_issues": 137,
-            "owner": "brian-team",
-            "repo": "brian2cuda",
-            "stars": 80,
-            "topics": [
-              "biological-simulations",
-              "brian",
-              "brian2",
-              "code-generation",
-              "computational-neuroscience",
-              "differential-equations",
-              "gpu",
-              "gpu-acceleration",
-              "neuroscience",
-              "python",
-              "science",
-              "simulation",
-              "simulation-framework",
-              "spiking-neural-networks"
             ]
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -1490,7 +1490,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -1517,7 +1517,7 @@
                 "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:30:30.428Z",
+    "last_updated": "2026-09-11T07:28:33.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
