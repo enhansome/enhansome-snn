@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3641,
+            "stars": 3642,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2349,
+            "stars": 2350,
             "topics": [
               "cfc",
               "keras",
@@ -215,7 +215,7 @@
             "open_issues": 123,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2128,
+            "stars": 2129,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 63,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2043,
+            "stars": 2044,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -299,7 +299,7 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T14:12:58Z",
+            "last_commit": "2026-09-11T15:40:24Z",
             "open_issues": 8,
             "owner": "BindsNET",
             "repo": "bindsnet",
@@ -333,10 +333,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T11:22:57Z",
-            "open_issues": 207,
+            "open_issues": 209,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1227,
+            "stars": 1228,
             "topics": [
               "biological-simulations",
               "brian",
@@ -428,7 +428,7 @@
             "open_issues": 64,
             "owner": "norse",
             "repo": "norse",
-            "stars": 818,
+            "stars": 819,
             "topics": [
               "autograd",
               "deep-learning",
@@ -710,7 +710,7 @@
             "open_issues": 27,
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -844,7 +844,7 @@
             "id": 45057564,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T00:43:17Z",
+            "last_commit": "2026-09-11T08:54:22Z",
             "open_issues": 137,
             "owner": "brian-team",
             "repo": "brian2cuda",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:28:33.948Z",
+    "last_updated": "2026-09-12T07:20:39.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
