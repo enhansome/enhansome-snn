@@ -215,7 +215,7 @@
             "open_issues": 123,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2129,
+            "stars": 2130,
             "topics": [
               "deep-learning",
               "dvs",
@@ -336,7 +336,7 @@
             "open_issues": 209,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1228,
+            "stars": 1229,
             "topics": [
               "biological-simulations",
               "brian",
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1053,
+            "stars": 1054,
             "topics": [
               "deep-learning",
               "neural-ode",
@@ -710,7 +710,7 @@
             "open_issues": 27,
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -778,7 +778,7 @@
             "open_issues": 3,
             "owner": "synsense",
             "repo": "rockpool",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "deployment",
               "jax",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:20:39.870Z",
+    "last_updated": "2026-09-13T07:39:07.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
