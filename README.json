@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3642,
+            "stars": 3643,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T17:28:29Z",
+            "last_commit": "2026-09-14T18:01:44Z",
             "open_issues": 124,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2131,
+            "stars": 2132,
             "topics": [
               "deep-learning",
               "dvs",
@@ -239,11 +239,11 @@
             "id": 299443676,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-13T19:12:17Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-14T19:15:28Z",
+            "open_issues": 58,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-14T07:28:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-14T16:16:15Z",
+            "open_issues": 8,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1699,
@@ -332,8 +332,8 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T11:22:57Z",
-            "open_issues": 209,
+            "last_commit": "2026-09-14T08:35:13Z",
+            "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
             "stars": 1231,
@@ -523,7 +523,7 @@
             "open_issues": 3,
             "owner": "fzenke",
             "repo": "spytorch",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-08T12:58:21Z",
+            "last_commit": "2026-09-14T17:47:38Z",
             "open_issues": 6,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:06:26.874Z",
+    "last_updated": "2026-09-15T08:01:23.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
