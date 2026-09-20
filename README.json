@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T12:37:33Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-19T07:44:46Z",
+            "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2136,
+            "stars": 2137,
             "topics": [
               "deep-learning",
               "dvs",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:31:52.395Z",
+    "last_updated": "2026-09-20T07:55:06.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
