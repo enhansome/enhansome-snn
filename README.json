@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3645,
+            "stars": 3646,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -215,7 +215,7 @@
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2139,
+            "stars": 2140,
             "topics": [
               "deep-learning",
               "dvs",
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-20T20:27:01Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2051,
+            "stars": 2053,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -303,7 +303,7 @@
             "open_issues": 12,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1700,
+            "stars": 1701,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -336,7 +336,7 @@
             "open_issues": 207,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1233,
+            "stars": 1234,
             "topics": [
               "biological-simulations",
               "brian",
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1055,
+            "stars": 1056,
             "topics": [
               "deep-learning",
               "neural-ode",
@@ -428,7 +428,7 @@
             "open_issues": 67,
             "owner": "norse",
             "repo": "norse",
-            "stars": 821,
+            "stars": 822,
             "topics": [
               "autograd",
               "deep-learning",
@@ -844,8 +844,8 @@
             "id": 45057564,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T16:49:43Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-21T17:00:03Z",
+            "open_issues": 136,
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 82,
@@ -1455,7 +1455,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-20T01:48:40Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
                 "stars": 88,
@@ -1622,7 +1622,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-20T01:48:40Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
                 "stars": 88,
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:12:09.759Z",
+    "last_updated": "2026-09-22T07:56:42.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
