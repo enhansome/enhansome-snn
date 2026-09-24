@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3646,
+            "stars": 3647,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T03:59:04Z",
+            "last_commit": "2026-09-24T06:24:10Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2141,
+            "stars": 2140,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 58,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2053,
+            "stars": 2055,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -336,7 +336,7 @@
             "open_issues": 207,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1235,
+            "stars": 1236,
             "topics": [
               "biological-simulations",
               "brian",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -425,7 +425,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-07-07T19:57:17Z",
-            "open_issues": 67,
+            "open_issues": 69,
             "owner": "norse",
             "repo": "norse",
             "stars": 822,
@@ -710,7 +710,7 @@
             "open_issues": 28,
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -778,7 +778,7 @@
             "open_issues": 4,
             "owner": "synsense",
             "repo": "rockpool",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "deployment",
               "jax",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:57:59.960Z",
+    "last_updated": "2026-09-24T07:48:38.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
