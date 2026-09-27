@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "realamirhe",
             "repo": "awesome-computational-neuro-science",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "article",
               "awesome",
@@ -211,8 +211,8 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T05:09:03Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-26T14:40:43Z",
+            "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2141,
@@ -336,7 +336,7 @@
             "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1237,
+            "stars": 1239,
             "topics": [
               "biological-simulations",
               "brian",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:59:52.383Z",
+    "last_updated": "2026-09-27T08:33:10.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
