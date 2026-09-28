@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3648,
+            "stars": 3649,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 519,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T14:40:43Z",
+            "last_commit": "2026-09-27T19:13:11Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2141,
+            "stars": 2142,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 61,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2057,
+            "stars": 2058,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -299,11 +299,11 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-22T21:28:07Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-28T07:28:07Z",
+            "open_issues": 11,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1703,
+            "stars": 1704,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -336,7 +336,7 @@
             "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1239,
+            "stars": 1240,
             "topics": [
               "biological-simulations",
               "brian",
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 655,
+            "stars": 656,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -544,7 +544,7 @@
             "open_issues": 26,
             "owner": "bamsumit",
             "repo": "slayerPytorch",
-            "stars": 328,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-21T06:51:51Z",
+            "last_commit": "2026-09-28T08:28:22Z",
             "open_issues": 6,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1839,7 +1839,7 @@
                 "open_issues": 1,
                 "owner": "flinkerlab",
                 "repo": "neural_speech_decoding",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:33:10.598Z",
+    "last_updated": "2026-09-28T08:57:16.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",

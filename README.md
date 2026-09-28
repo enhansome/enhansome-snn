@@ -1,6 +1,6 @@
 # Awesome-SNN with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,124 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,679 | 🐛 106 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome SNN(Spiking Neural Network) projects.
 
@@ -22,9 +22,9 @@
 
 ## Review
 
-* [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) ⭐ 3,648 | 🐛 1 | 📅 2026-09-25 <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources.
+* [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) ⭐ 3,649 | 🐛 1 | 📅 2026-09-25 <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources.
 
-* [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) ⭐ 519 | 🐛 0 | 🌐 Python | 📅 2026-05-17 <img src="https://img.shields.io/github/stars/SpikingChen/SNN-Daily-Arxiv?style=social"/> : Update arXiv papers about Spiking Neural Networks daily.
+* [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) ⭐ 518 | 🐛 0 | 🌐 Python | 📅 2026-05-17 <img src="https://img.shields.io/github/stars/SpikingChen/SNN-Daily-Arxiv?style=social"/> : Update arXiv papers about Spiking Neural Networks daily.
 
 * [XDUSPONGE/SNN\_benchmark](https://github.com/XDUSPONGE/SNN_benchmark) ⭐ 256 | 🐛 0 | 📅 2021-05-08 <img src="https://img.shields.io/github/stars/XDUSPONGE/SNN_benchmark?style=social"/> : Spiking Neural Network Paper List.
 
@@ -46,15 +46,15 @@
 
 * [NCPs](https://github.com/mlech26l/ncps) ⭐ 2,351 | 🐛 28 | 🌐 Python | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/mlech26l/ncps?style=social"/> : PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models. "Neural circuit policies enabling auditable autonomy". (**[Nature Machine Intelligence, 2020](https://www.nature.com/articles/s42256-020-00237-3)**)
 
-* [SpikingJelly | 惊蜇](https://github.com/fangwei123456/spikingjelly) ⭐ 2,141 | 🐛 125 | 🌐 Python | 📅 2026-09-26 <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/> : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。[spikingjelly.readthedocs.io](https://spikingjelly.readthedocs.io/zh_CN/latest/)
+* [SpikingJelly | 惊蜇](https://github.com/fangwei123456/spikingjelly) ⭐ 2,142 | 🐛 125 | 🌐 Python | 📅 2026-09-27 <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/> : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。[spikingjelly.readthedocs.io](https://spikingjelly.readthedocs.io/zh_CN/latest/)
 
-* [snntorch](https://github.com/jeshraghian/snntorch) ⭐ 2,057 | 🐛 61 | 🌐 Python | 📅 2026-09-25 <img src="https://img.shields.io/github/stars/jeshraghian/snntorch?style=social"/> : Deep and online learning with spiking neural networks in Python. "Training Spiking Neural Networks Using Lessons From Deep Learning". (**[arXiv 2021](https://arxiv.org/abs/2109.12894)**)
+* [snntorch](https://github.com/jeshraghian/snntorch) ⭐ 2,058 | 🐛 61 | 🌐 Python | 📅 2026-09-25 <img src="https://img.shields.io/github/stars/jeshraghian/snntorch?style=social"/> : Deep and online learning with spiking neural networks in Python. "Training Spiking Neural Networks Using Lessons From Deep Learning". (**[arXiv 2021](https://arxiv.org/abs/2109.12894)**)
 
 * [LTCs](https://github.com/raminmh/liquid_time_constant_networks) ⭐ 1,865 | 🐛 10 | 🌐 Python | 📅 2024-06-03 <img src="https://img.shields.io/github/stars/raminmh/liquid_time_constant_networks?style=social"/> : "Liquid Time-constant Networks". (**[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16936)**)
 
-* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,703 | 🐛 10 | 🌐 Python | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/> : Simulation of spiking neural networks (SNNs) using PyTorch.
+* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,704 | 🐛 11 | 🌐 Python | 📅 2026-09-28 <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/> : Simulation of spiking neural networks (SNNs) using PyTorch.
 
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,239 | 🐛 208 | 🌐 Python | 📅 2026-09-21 <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/> : Brian is a free, open source simulator for spiking neural networks. "Brian 2, an intuitive and efficient neural simulator". (**[Elife 2019](https://elifesciences.org/articles/47314)**)
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,240 | 🐛 208 | 🌐 Python | 📅 2026-09-21 <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/> : Brian is a free, open source simulator for spiking neural networks. "Brian 2, an intuitive and efficient neural simulator". (**[Elife 2019](https://elifesciences.org/articles/47314)**)
 
 * [Spiking-Neural-Network](https://github.com/Shikhargupta/Spiking-Neural-Network) ⭐ 1,215 | 🐛 14 | 🌐 Python | 📅 2022-07-29 <img src="https://img.shields.io/github/stars/Shikhargupta/Spiking-Neural-Network?style=social"/> : This is the python implementation of hardware efficient spiking neural network.
 
@@ -62,13 +62,13 @@
 
 * [norse](https://github.com/norse/norse) ⭐ 823 | 🐛 69 | 🌐 Python | 📅 2026-07-07 <img src="https://img.shields.io/github/stars/norse/norse?style=social"/> : Deep learning with spiking neural networks (SNNs) in PyTorch.
 
-* [BrainCog | 智脉](https://github.com/BrainCog-X/Brain-Cog) ⭐ 655 | 🐛 31 | 🌐 Python | 📅 2025-11-06 <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage <http://www.brain-cog.network/>. "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
+* [BrainCog | 智脉](https://github.com/BrainCog-X/Brain-Cog) ⭐ 656 | 🐛 31 | 🌐 Python | 📅 2025-11-06 <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage <http://www.brain-cog.network/>. "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
 
 * [snn\_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) ⭐ 398 | 🐛 3 | 🌐 Python | 📅 2023-01-13 <img src="https://img.shields.io/github/stars/NeuromorphicProcessorProject/snn_toolbox?style=social"/> : Toolbox for converting analog to spiking neural networks (ANN to SNN), and running them in a spiking neuron simulator.
 
 * [SpyTorch](https://github.com/fzenke/spytorch) ⭐ 365 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-06-18 <img src="https://img.shields.io/github/stars/fzenke/spytorch?style=social"/> : "Surrogate gradient learning in spiking neural networks: Bringing the power of gradient-based optimization to spiking neural networks". (**[IEEE Signal Processing Magazine 2019](https://ieeexplore.ieee.org/abstract/document/8891809)**)
 
-* [slayerPytorch](https://github.com/bamsumit/slayerPytorch) ⭐ 328 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2026-07-17 <img src="https://img.shields.io/github/stars/bamsumit/slayerPytorch?style=social"/> : PyTorch implementation of SLAYER for training Spiking Neural Networks . "Slayer: Spike layer error reassignment in time". (**[NeurIPS 2018](https://proceedings.neurips.cc/paper/2018/hash/82f2b308c3b01637c607ce05f52a2fed-Abstract.html)**)
+* [slayerPytorch](https://github.com/bamsumit/slayerPytorch) ⭐ 327 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2026-07-17 <img src="https://img.shields.io/github/stars/bamsumit/slayerPytorch?style=social"/> : PyTorch implementation of SLAYER for training Spiking Neural Networks . "Slayer: Spike layer error reassignment in time". (**[NeurIPS 2018](https://proceedings.neurips.cc/paper/2018/hash/82f2b308c3b01637c607ce05f52a2fed-Abstract.html)**)
 
 * [Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP](https://github.com/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP) ⭐ 278 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2022-11-06 <img src="https://img.shields.io/github/stars/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP?style=social"/> : Spiking Neural Network (SNN) with PyTorch : towards bridging the gap between deep learning and the human brain.
 
@@ -100,7 +100,7 @@
 
 * [combra-lab/snn-eeg](https://github.com/combra-lab/snn-eeg) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2022-06-26 <img src="https://img.shields.io/github/stars/combra-lab/snn-eeg?style=social"/> : PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware. "PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware". (**[TMLR 2022](https://openreview.net/forum?id=ZPBJPGX3Bz)**)
 
-* [ANNarchy](https://github.com/ANNarchy/ANNarchy) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2026-09-21 <img src="https://img.shields.io/github/stars/ANNarchy/ANNarchy?style=social"/> : "ANNarchy: a code generation approach to neural simulations on parallel hardware". (**[Frontiers in Neuroinformatics 2015](https://www.frontiersin.org/articles/10.3389/fninf.2015.00019/full)**)
+* [ANNarchy](https://github.com/ANNarchy/ANNarchy) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2026-09-28 <img src="https://img.shields.io/github/stars/ANNarchy/ANNarchy?style=social"/> : "ANNarchy: a code generation approach to neural simulations on parallel hardware". (**[Frontiers in Neuroinformatics 2015](https://www.frontiersin.org/articles/10.3389/fninf.2015.00019/full)**)
 
 * [nengo/pytorch-spiking](https://github.com/nengo/pytorch-spiking) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-08-02 <img src="https://img.shields.io/github/stars/nengo/pytorch-spiking?style=social"/> : Spiking neuron integration for PyTorch. [www.nengo.ai/pytorch-spiking/](http://www.nengo.ai/pytorch-spiking/).
 
@@ -186,7 +186,7 @@
 
 * ### Speech and Audio Field
 
-  * [flinkerlab/neural\_speech\_decoding](https://github.com/flinkerlab/neural_speech_decoding) ⭐ 119 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-04-08 <img src="https://img.shields.io/github/stars/flinkerlab/neural_speech_decoding?style=social"/> : Neural Speech Decoding. "A neural speech decoding framework leveraging deep learning and speech synthesis". (**[Nature, 2024](https://www.nature.com/articles/s42256-024-00824-8)**). "微信公众号「量子位」《[脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)》"。
+  * [flinkerlab/neural\_speech\_decoding](https://github.com/flinkerlab/neural_speech_decoding) ⭐ 120 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-04-08 <img src="https://img.shields.io/github/stars/flinkerlab/neural_speech_decoding?style=social"/> : Neural Speech Decoding. "A neural speech decoding framework leveraging deep learning and speech synthesis". (**[Nature, 2024](https://www.nature.com/articles/s42256-024-00824-8)**). "微信公众号「量子位」《[脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)》"。
 
   * [comob-project/snn-sound-localization](https://github.com/comob-project/snn-sound-localization) ⭐ 70 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-12-11 <img src="https://img.shields.io/github/stars/comob-project/snn-sound-localization?style=social"/> : Training spiking neural networks for sound localization.
 
@@ -257,4 +257,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
