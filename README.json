@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3649,
+            "stars": 3650,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T19:13:11Z",
+            "last_commit": "2026-09-28T17:04:42Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2142,
+            "stars": 2146,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 61,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2058,
+            "stars": 2059,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -332,11 +332,11 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T08:04:44Z",
+            "last_commit": "2026-09-29T08:53:33Z",
             "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "biological-simulations",
               "brian",
@@ -813,27 +813,6 @@
         },
         {
           "node_type": "item",
-          "title": "romainzimmer/s2net",
-          "description": "Supervised Spiking Network.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Supervised Spiking Network",
-            "homepage": null,
-            "id": 223428999,
-            "language": "Jupyter Notebook",
-            "license": "GPL-3.0",
-            "last_commit": "2022-06-25T13:04:29Z",
-            "open_issues": 1,
-            "owner": "romainzimmer",
-            "repo": "s2net",
-            "stars": 83,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
           "title": "Brian2CUDA",
           "description": "A brian2 extension to simulate spiking neural networks on GPUs. \"Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs\". (Frontiers in Neuroinformatics 2022)",
           "children": [],
@@ -848,7 +827,7 @@
             "open_issues": 136,
             "owner": "brian-team",
             "repo": "brian2cuda",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "biological-simulations",
               "brian",
@@ -865,6 +844,27 @@
               "simulation-framework",
               "spiking-neural-networks"
             ]
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
+          "title": "romainzimmer/s2net",
+          "description": "Supervised Spiking Network.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Supervised Spiking Network",
+            "homepage": null,
+            "id": 223428999,
+            "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
+            "last_commit": "2022-06-25T13:04:29Z",
+            "open_issues": 1,
+            "owner": "romainzimmer",
+            "repo": "s2net",
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
         },
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:57:16.837Z",
+    "last_updated": "2026-09-29T09:02:07.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
