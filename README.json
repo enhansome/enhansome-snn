@@ -211,8 +211,8 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:23:22Z",
-            "open_issues": 126,
+            "last_commit": "2026-10-03T06:35:39Z",
+            "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2151,
@@ -240,7 +240,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T04:23:02Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "jeshraghian",
             "repo": "snntorch",
             "stars": 2062,
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:15.661Z",
+    "last_updated": "2026-10-03T08:33:07.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
