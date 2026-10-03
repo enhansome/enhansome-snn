@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3656,
+            "stars": 3657,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:58:42Z",
+            "last_commit": "2026-10-03T04:23:22Z",
             "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2149,
+            "stars": 2151,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 55,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2061,
+            "stars": 2062,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T08:52:39Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T13:13:51Z",
+            "open_issues": 10,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1703,
@@ -332,7 +332,7 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T09:31:37Z",
+            "last_commit": "2026-10-03T00:06:40Z",
             "open_issues": 213,
             "owner": "brian-team",
             "repo": "brian2",
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1056,
+            "stars": 1055,
             "topics": [
               "deep-learning",
               "neural-ode",
@@ -710,7 +710,7 @@
             "open_issues": 28,
             "owner": "synsense",
             "repo": "sinabs",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:00:03.681Z",
+    "last_updated": "2026-10-03T05:07:15.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
