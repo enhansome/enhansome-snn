@@ -15,11 +15,11 @@
             "id": 95533189,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-07T15:45:16Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-08T20:59:08Z",
+            "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3661,
+            "stars": 3662,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-08T01:31:17Z",
+            "last_commit": "2026-10-09T01:41:06Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T08:37:56Z",
-            "open_issues": 126,
+            "last_commit": "2026-10-09T08:51:41Z",
+            "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2155,
+            "stars": 2157,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 53,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2064,
+            "stars": 2066,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -332,7 +332,7 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T08:22:45Z",
+            "last_commit": "2026-10-09T08:11:31Z",
             "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
@@ -823,11 +823,11 @@
             "id": 45057564,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T13:38:22Z",
-            "open_issues": 136,
+            "last_commit": "2026-10-09T08:48:21Z",
+            "open_issues": 138,
             "owner": "brian-team",
             "repo": "brian2cuda",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "biological-simulations",
               "brian",
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T07:48:09Z",
+            "last_commit": "2026-10-08T15:52:59Z",
             "open_issues": 7,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1650,7 +1650,7 @@
                 "open_issues": 13,
                 "owner": "loiccordone",
                 "repo": "object-detection-with-spiking-neural-networks",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:27:09.865Z",
+    "last_updated": "2026-10-09T09:37:06.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
