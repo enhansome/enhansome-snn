@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3662,
+            "stars": 3663,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-09T01:41:06Z",
+            "last_commit": "2026-10-10T01:26:42Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "XDUSPONGE",
             "repo": "SNN_benchmark",
-            "stars": 255,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T08:51:41Z",
-            "open_issues": 125,
+            "last_commit": "2026-10-10T06:07:36Z",
+            "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2157,
+            "stars": 2158,
             "topics": [
               "deep-learning",
               "dvs",
@@ -303,7 +303,7 @@
             "open_issues": 9,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1704,
+            "stars": 1705,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -332,7 +332,7 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T08:11:31Z",
+            "last_commit": "2026-10-09T15:39:56Z",
             "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
@@ -428,7 +428,7 @@
             "open_issues": 69,
             "owner": "norse",
             "repo": "norse",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "autograd",
               "deep-learning",
@@ -589,7 +589,7 @@
             "open_issues": 5,
             "owner": "yjwu17",
             "repo": "STBP-for-training-SpikingNN",
-            "stars": 243,
+            "stars": 242,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:37:06.893Z",
+    "last_updated": "2026-10-10T08:59:19.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
@@ -1968,7 +1968,7 @@
       "open_issues": 1,
       "owner": "coderonion",
       "repo": "awesome-snn",
-      "stars": 238,
+      "stars": 239,
       "topics": [
         "attention",
         "awesome-list",
