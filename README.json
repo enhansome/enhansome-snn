@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3662,
+            "stars": 3661,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-13T02:48:19Z",
+            "last_commit": "2026-10-14T00:49:06Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "XDUSPONGE",
             "repo": "SNN_benchmark",
-            "stars": 254,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2352,
+            "stars": 2353,
             "topics": [
               "cfc",
               "keras",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T09:19:40Z",
-            "open_issues": 126,
+            "last_commit": "2026-10-14T04:43:04Z",
+            "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2158,
+            "stars": 2160,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 55,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2069,
+            "stars": 2072,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -275,7 +275,7 @@
             "open_issues": 10,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1865,
+            "stars": 1866,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -332,8 +332,8 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T09:09:17Z",
-            "open_issues": 206,
+            "last_commit": "2026-10-13T13:53:55Z",
+            "open_issues": 208,
             "owner": "brian-team",
             "repo": "brian2",
             "stars": 1245,
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1055,
+            "stars": 1057,
             "topics": [
               "deep-learning",
               "neural-ode",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:44:15.103Z",
+    "last_updated": "2026-10-14T08:01:03.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
