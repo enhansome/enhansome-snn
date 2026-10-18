@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3663,
+            "stars": 3664,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T18:41:05Z",
+            "last_commit": "2026-10-17T16:44:55Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2163,
+            "stars": 2166,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 58,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2072,
+            "stars": 2074,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -743,6 +743,34 @@
         },
         {
           "node_type": "item",
+          "title": "synsense/rockpool",
+          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+            "homepage": "https://rockpool.ai",
+            "id": 404780200,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-07-03T08:48:40Z",
+            "open_issues": 4,
+            "owner": "synsense",
+            "repo": "rockpool",
+            "stars": 93,
+            "topics": [
+              "deployment",
+              "jax",
+              "machine-learning",
+              "neuromorphic",
+              "pytorch",
+              "snn"
+            ]
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
           "title": "yhhhli/SNN_Calibration",
           "description": "Pytorch Implementation of Spiking Neural Networks Calibration, ICML 2021. \"A free lunch from ANN: Towards efficient, accurate spiking neural networks calibration\". (ICML 2021). \"Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration\". (arXiv 2022)",
           "children": [],
@@ -759,34 +787,6 @@
             "repo": "SNN_Calibration",
             "stars": 92,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
-          "title": "synsense/rockpool",
-          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
-            "homepage": "https://rockpool.ai",
-            "id": 404780200,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-07-03T08:48:40Z",
-            "open_issues": 4,
-            "owner": "synsense",
-            "repo": "rockpool",
-            "stars": 92,
-            "topics": [
-              "deployment",
-              "jax",
-              "machine-learning",
-              "neuromorphic",
-              "pytorch",
-              "snn"
-            ]
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
         },
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:11:15.633Z",
+    "last_updated": "2026-10-18T07:25:09.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
@@ -1965,10 +1965,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-01T08:01:29Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "coderonion",
       "repo": "awesome-snn",
-      "stars": 239,
+      "stars": 240,
       "topics": [
         "attention",
         "awesome-list",
