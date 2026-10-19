@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3664,
+            "stars": 3665,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,11 +36,11 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-17T00:09:26Z",
+            "last_commit": "2026-10-18T23:52:00Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 518,
+            "stars": 520,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "XDUSPONGE",
             "repo": "SNN_benchmark",
-            "stars": 255,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T16:44:55Z",
+            "last_commit": "2026-10-18T18:35:33Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2166,
+            "stars": 2167,
             "topics": [
               "deep-learning",
               "dvs",
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T21:18:23Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-19T07:26:36Z",
+            "open_issues": 11,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1706,
@@ -336,7 +336,7 @@
             "open_issues": 205,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "biological-simulations",
               "brian",
@@ -827,7 +827,7 @@
             "open_issues": 138,
             "owner": "brian-team",
             "repo": "brian2cuda",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "biological-simulations",
               "brian",
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-15T09:19:26Z",
+            "last_commit": "2026-10-19T06:33:35Z",
             "open_issues": 7,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1039,7 +1039,7 @@
             "id": 490226763,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2025-10-11T15:12:42Z",
+            "last_commit": "2026-10-18T09:24:02Z",
             "open_issues": 2,
             "owner": "ShahriarRezghi",
             "repo": "Spyker",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:25:09.107Z",
+    "last_updated": "2026-10-19T08:04:54.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
