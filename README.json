@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3669,
+            "stars": 3671,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T22:30:51Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-25T07:43:01Z",
+            "open_issues": 128,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2170,
+            "stars": 2172,
             "topics": [
               "deep-learning",
               "dvs",
@@ -275,7 +275,7 @@
             "open_issues": 10,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -336,7 +336,7 @@
             "open_issues": 205,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1247,
+            "stars": 1250,
             "topics": [
               "biological-simulations",
               "brian",
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "deep-learning",
               "neural-ode",
@@ -425,7 +425,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-07-07T19:57:17Z",
-            "open_issues": 74,
+            "open_issues": 79,
             "owner": "norse",
             "repo": "norse",
             "stars": 827,
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 662,
+            "stars": 663,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -642,7 +642,7 @@
             "open_issues": 12,
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:35:23.848Z",
+    "last_updated": "2026-10-25T07:48:22.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
@@ -1968,7 +1968,7 @@
       "open_issues": 0,
       "owner": "coderonion",
       "repo": "awesome-snn",
-      "stars": 240,
+      "stars": 239,
       "topics": [
         "attention",
         "awesome-list",
