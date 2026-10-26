@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3671,
+            "stars": 3670,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-24T00:11:13Z",
+            "last_commit": "2026-10-25T23:44:03Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T07:43:01Z",
-            "open_issues": 128,
+            "last_commit": "2026-10-25T14:08:53Z",
+            "open_issues": 129,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2172,
+            "stars": 2173,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 58,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2078,
+            "stars": 2079,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T20:20:17Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-26T07:25:37Z",
+            "open_issues": 14,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1707,
@@ -333,7 +333,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T18:47:00Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "brian-team",
             "repo": "brian2",
             "stars": 1250,
@@ -785,7 +785,7 @@
             "open_issues": 6,
             "owner": "yhhhli",
             "repo": "SNN_Calibration",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:48:22.651Z",
+    "last_updated": "2026-10-26T08:06:48.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
