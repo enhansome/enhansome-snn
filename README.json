@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3670,
+            "stars": 3672,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,11 +36,11 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-27T01:03:15Z",
+            "last_commit": "2026-10-28T00:54:29Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T04:38:30Z",
-            "open_issues": 127,
+            "last_commit": "2026-10-28T03:11:14Z",
+            "open_issues": 128,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2175,
+            "stars": 2177,
             "topics": [
               "deep-learning",
               "dvs",
@@ -332,11 +332,11 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T18:47:00Z",
-            "open_issues": 208,
+            "last_commit": "2026-10-27T21:02:00Z",
+            "open_issues": 209,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1250,
+            "stars": 1249,
             "topics": [
               "biological-simulations",
               "brian",
@@ -428,7 +428,7 @@
             "open_issues": 79,
             "owner": "norse",
             "repo": "norse",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "autograd",
               "deep-learning",
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 664,
+            "stars": 666,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -544,7 +544,7 @@
             "open_issues": 26,
             "owner": "bamsumit",
             "repo": "slayerPytorch",
-            "stars": 327,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -565,7 +565,7 @@
             "open_issues": 8,
             "owner": "guillaume-chevalier",
             "repo": "Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "neurons",
               "spiking-neural-networks"
@@ -589,7 +589,7 @@
             "open_issues": 5,
             "owner": "yjwu17",
             "repo": "STBP-for-training-SpikingNN",
-            "stars": 242,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -663,7 +663,7 @@
             "open_issues": 2,
             "owner": "tudelft",
             "repo": "cuSNN",
-            "stars": 137,
+            "stars": 136,
             "topics": [
               "cuda",
               "cuda-kernels",
@@ -743,34 +743,6 @@
         },
         {
           "node_type": "item",
-          "title": "synsense/rockpool",
-          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
-            "homepage": "https://rockpool.ai",
-            "id": 404780200,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-07-03T08:48:40Z",
-            "open_issues": 6,
-            "owner": "synsense",
-            "repo": "rockpool",
-            "stars": 93,
-            "topics": [
-              "deployment",
-              "jax",
-              "machine-learning",
-              "neuromorphic",
-              "pytorch",
-              "snn"
-            ]
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
           "title": "yhhhli/SNN_Calibration",
           "description": "Pytorch Implementation of Spiking Neural Networks Calibration, ICML 2021. \"A free lunch from ANN: Towards efficient, accurate spiking neural networks calibration\". (ICML 2021). \"Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration\". (arXiv 2022)",
           "children": [],
@@ -792,6 +764,34 @@
         },
         {
           "node_type": "item",
+          "title": "synsense/rockpool",
+          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+            "homepage": "https://rockpool.ai",
+            "id": 404780200,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-07-03T08:48:40Z",
+            "open_issues": 6,
+            "owner": "synsense",
+            "repo": "rockpool",
+            "stars": 92,
+            "topics": [
+              "deployment",
+              "jax",
+              "machine-learning",
+              "neuromorphic",
+              "pytorch",
+              "snn"
+            ]
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
           "title": "thiswinex/STBP-simple",
           "description": "A simple direct training implement for SNNs using Spatio-Temporal Backpropagation.",
           "children": [],
@@ -806,7 +806,7 @@
             "open_issues": 1,
             "owner": "thiswinex",
             "repo": "STBP-simple",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T07:50:53Z",
+            "last_commit": "2026-10-27T15:17:05Z",
             "open_issues": 8,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1062,6 +1062,27 @@
         },
         {
           "node_type": "item",
+          "title": "ZLkanyo009/STBP-train-and-compression",
+          "description": "STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.",
+            "homepage": null,
+            "id": 428546357,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-02-03T05:28:55Z",
+            "open_issues": 2,
+            "owner": "ZLkanyo009",
+            "repo": "STBP-train-and-compression",
+            "stars": 30,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
           "title": "michaelmelanson/spiking-neural-net",
           "description": "A spiking neural network simulation library.",
           "children": [],
@@ -1085,27 +1106,6 @@
               "rust-library",
               "science"
             ]
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ZLkanyo009/STBP-train-and-compression",
-          "description": "STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.",
-            "homepage": null,
-            "id": 428546357,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-02-03T05:28:55Z",
-            "open_issues": 2,
-            "owner": "ZLkanyo009",
-            "repo": "STBP-train-and-compression",
-            "stars": 29,
-            "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
         },
@@ -1458,7 +1458,7 @@
                 "open_issues": 7,
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "attention-mechanism",
                   "dynamic-neural-network",
@@ -1517,7 +1517,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1566,7 +1566,7 @@
                 "open_issues": 58,
                 "owner": "cwq159",
                 "repo": "PyTorch-Spiking-YOLOv3",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "ann-to-snn",
                   "channel-wise-normalization",
@@ -1625,7 +1625,7 @@
                 "open_issues": 7,
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "attention-mechanism",
                   "dynamic-neural-network",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T08:22:16.486Z",
+    "last_updated": "2026-10-28T08:58:22.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
@@ -1968,7 +1968,7 @@
       "open_issues": 0,
       "owner": "coderonion",
       "repo": "awesome-snn",
-      "stars": 239,
+      "stars": 240,
       "topics": [
         "attention",
         "awesome-list",
