@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3673,
+            "stars": 3674,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-30T01:41:12Z",
+            "last_commit": "2026-10-31T01:22:39Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -211,7 +211,7 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T06:33:53Z",
+            "last_commit": "2026-10-30T10:13:12Z",
             "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
@@ -239,11 +239,11 @@
             "id": 299443676,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T06:33:40Z",
+            "last_commit": "2026-10-30T17:51:56Z",
             "open_issues": 62,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2082,
+            "stars": 2084,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -332,11 +332,11 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T15:53:04Z",
-            "open_issues": 208,
+            "last_commit": "2026-10-30T16:21:54Z",
+            "open_issues": 207,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1251,
+            "stars": 1253,
             "topics": [
               "biological-simulations",
               "brian",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1219,
+            "stars": 1221,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -428,7 +428,7 @@
             "open_issues": 79,
             "owner": "norse",
             "repo": "norse",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "autograd",
               "deep-learning",
@@ -544,7 +544,7 @@
             "open_issues": 26,
             "owner": "bamsumit",
             "repo": "slayerPytorch",
-            "stars": 326,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-29T11:08:15Z",
+            "last_commit": "2026-10-30T16:48:59Z",
             "open_issues": 8,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1913,7 +1913,7 @@
                 "open_issues": 2,
                 "owner": "uzh-rpg",
                 "repo": "snn_angular_velocity",
-                "stars": 116,
+                "stars": 115,
                 "topics": [
                   "event-cameras",
                   "spiking-neural-networks"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:58:38.673Z",
+    "last_updated": "2026-10-31T08:51:38.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
