@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3674,
+            "stars": 3675,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,11 +36,11 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-01T00:37:25Z",
+            "last_commit": "2026-11-02T01:10:53Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 521,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T22:50:34Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-02T07:27:36Z",
+            "open_issues": 10,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1706,
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-30T16:48:59Z",
+            "last_commit": "2026-11-02T09:46:26Z",
             "open_issues": 8,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1433,7 +1433,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1517,7 +1517,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 261,
+                "stars": 263,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1541,7 +1541,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:42:57.680Z",
+    "last_updated": "2026-11-02T09:56:38.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
