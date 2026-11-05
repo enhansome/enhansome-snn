@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3676,
+            "stars": 3679,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,11 +36,11 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-03T03:15:22Z",
+            "last_commit": "2026-11-05T01:57:35Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 522,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2358,
+            "stars": 2357,
             "topics": [
               "cfc",
               "keras",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T15:52:07Z",
-            "open_issues": 129,
+            "last_commit": "2026-11-05T09:19:56Z",
+            "open_issues": 128,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2178,
+            "stars": 2179,
             "topics": [
               "deep-learning",
               "dvs",
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T17:51:56Z",
-            "open_issues": 63,
+            "open_issues": 65,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2085,
+            "stars": 2089,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -303,7 +303,7 @@
             "open_issues": 9,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -333,10 +333,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T01:05:19Z",
-            "open_issues": 222,
+            "open_issues": 226,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1254,
+            "stars": 1257,
             "topics": [
               "biological-simulations",
               "brian",
@@ -428,7 +428,7 @@
             "open_issues": 80,
             "owner": "norse",
             "repo": "norse",
-            "stars": 827,
+            "stars": 826,
             "topics": [
               "autograd",
               "deep-learning",
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 668,
+            "stars": 670,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-03T06:58:56Z",
+            "last_commit": "2026-11-05T09:07:25Z",
             "open_issues": 8,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1433,7 +1433,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1541,7 +1541,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1913,7 +1913,7 @@
                 "open_issues": 2,
                 "owner": "uzh-rpg",
                 "repo": "snn_angular_velocity",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "event-cameras",
                   "spiking-neural-networks"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T10:03:22.939Z",
+    "last_updated": "2026-11-05T09:49:59.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
