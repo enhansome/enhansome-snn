@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3679,
+            "stars": 3680,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-05T01:57:35Z",
+            "last_commit": "2026-11-06T01:57:33Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2357,
+            "stars": 2358,
             "topics": [
               "cfc",
               "keras",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T09:19:56Z",
-            "open_issues": 128,
+            "last_commit": "2026-11-05T13:19:01Z",
+            "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2179,
+            "stars": 2180,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 65,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2089,
+            "stars": 2091,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -303,7 +303,7 @@
             "open_issues": 9,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1707,
+            "stars": 1708,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -332,11 +332,11 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T01:05:19Z",
-            "open_issues": 226,
+            "last_commit": "2026-11-05T16:27:40Z",
+            "open_issues": 220,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1257,
+            "stars": 1256,
             "topics": [
               "biological-simulations",
               "brian",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1221,
+            "stars": 1222,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -942,8 +942,8 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-05T09:07:25Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T08:38:15Z",
+            "open_issues": 9,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46,
@@ -1226,27 +1226,6 @@
         },
         {
           "node_type": "item",
-          "title": "BioLCNet",
-          "description": "\"BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks\". (arXiv 2021)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks",
-            "homepage": null,
-            "id": 405625985,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2023-03-15T10:46:40Z",
-            "open_issues": 0,
-            "owner": "Singular-Brain",
-            "repo": "BioLCNet",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
           "title": "Borzyszkowski/SNN-CMS",
           "description": "Spiking Neural Networks accelerated on the Intel Loihi chips for LHC experiments, at CMS detector. Project of the European Organization for Nuclear Research (CERN) in collaboration with Intel Labs.",
           "children": [],
@@ -1282,6 +1261,27 @@
             "open_issues": 0,
             "owner": "TJXTT",
             "repo": "AC2ASNN",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BioLCNet",
+          "description": "\"BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks\". (arXiv 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks",
+            "homepage": null,
+            "id": 405625985,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2023-03-15T10:46:40Z",
+            "open_issues": 0,
+            "owner": "Singular-Brain",
+            "repo": "BioLCNet",
             "stars": 7,
             "topics": []
           },
@@ -1433,7 +1433,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 237,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1541,7 +1541,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 237,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:49:59.743Z",
+    "last_updated": "2026-11-06T09:52:29.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
