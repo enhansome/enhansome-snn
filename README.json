@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3680,
+            "stars": 3681,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-09T01:22:37Z",
+            "last_commit": "2026-11-10T03:56:14Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -211,8 +211,8 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T10:02:40Z",
-            "open_issues": 128,
+            "last_commit": "2026-11-10T06:41:09Z",
+            "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2183,
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T17:51:56Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2096,
+            "stars": 2097,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -332,8 +332,8 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T09:48:26Z",
-            "open_issues": 221,
+            "last_commit": "2026-11-09T11:03:04Z",
+            "open_issues": 220,
             "owner": "brian-team",
             "repo": "brian2",
             "stars": 1257,
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -884,7 +884,7 @@
             "open_issues": 8,
             "owner": "INM-6",
             "repo": "multi-area-model",
-            "stars": 82,
+            "stars": 81,
             "topics": [
               "cerebral-cortex",
               "computational-neuroscience",
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T14:57:04Z",
+            "last_commit": "2026-11-09T16:01:20Z",
             "open_issues": 9,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T10:19:25.514Z",
+    "last_updated": "2026-11-10T10:23:37.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
@@ -1968,7 +1968,7 @@
       "open_issues": 0,
       "owner": "coderonion",
       "repo": "awesome-snn",
-      "stars": 240,
+      "stars": 241,
       "topics": [
         "attention",
         "awesome-list",
