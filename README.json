@@ -36,11 +36,11 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-11T01:40:02Z",
+            "last_commit": "2026-11-12T02:39:30Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -215,7 +215,7 @@
             "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2183,
+            "stars": 2185,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 66,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2099,
+            "stars": 2100,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -332,11 +332,11 @@
             "id": 6884056,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T16:14:31Z",
+            "last_commit": "2026-11-12T09:40:09Z",
             "open_issues": 218,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1257,
+            "stars": 1258,
             "topics": [
               "biological-simulations",
               "brian",
@@ -428,7 +428,7 @@
             "open_issues": 80,
             "owner": "norse",
             "repo": "norse",
-            "stars": 826,
+            "stars": 827,
             "topics": [
               "autograd",
               "deep-learning",
@@ -942,8 +942,8 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-11T06:45:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-11T12:45:58Z",
+            "open_issues": 9,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46,
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:50:14.780Z",
+    "last_updated": "2026-11-12T10:17:57.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
