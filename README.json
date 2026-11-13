@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3682,
+            "stars": 3684,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-12T02:39:30Z",
+            "last_commit": "2026-11-13T02:20:07Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -215,7 +215,7 @@
             "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2185,
+            "stars": 2186,
             "topics": [
               "deep-learning",
               "dvs",
@@ -275,7 +275,7 @@
             "open_issues": 10,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1870,
+            "stars": 1871,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 670,
+            "stars": 674,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -523,7 +523,7 @@
             "open_issues": 3,
             "owner": "fzenke",
             "repo": "spytorch",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -943,7 +943,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-11-11T12:45:58Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46,
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:17:57.825Z",
+    "last_updated": "2026-11-13T09:58:28.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
