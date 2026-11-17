@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-16T01:44:26Z",
+            "last_commit": "2026-11-17T04:17:02Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -212,7 +212,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T02:50:21Z",
-            "open_issues": 126,
+            "open_issues": 132,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2186,
@@ -240,10 +240,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T17:51:56Z",
-            "open_issues": 67,
+            "open_issues": 74,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2101,
+            "stars": 2103,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -275,7 +275,7 @@
             "open_issues": 10,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1871,
+            "stars": 1872,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -333,10 +333,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-16T09:17:08Z",
-            "open_issues": 220,
+            "open_issues": 225,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1258,
+            "stars": 1259,
             "topics": [
               "biological-simulations",
               "brian",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -428,7 +428,7 @@
             "open_issues": 80,
             "owner": "norse",
             "repo": "norse",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "autograd",
               "deep-learning",
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -743,6 +743,34 @@
         },
         {
           "node_type": "item",
+          "title": "synsense/rockpool",
+          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+            "homepage": "https://rockpool.ai",
+            "id": 404780200,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-17T08:09:11Z",
+            "open_issues": 5,
+            "owner": "synsense",
+            "repo": "rockpool",
+            "stars": 93,
+            "topics": [
+              "deployment",
+              "jax",
+              "machine-learning",
+              "neuromorphic",
+              "pytorch",
+              "snn"
+            ]
+          },
+          "first_seen": "2026-08-28T14:35:08.817Z"
+        },
+        {
+          "node_type": "item",
           "title": "yhhhli/SNN_Calibration",
           "description": "Pytorch Implementation of Spiking Neural Networks Calibration, ICML 2021. \"A free lunch from ANN: Towards efficient, accurate spiking neural networks calibration\". (ICML 2021). \"Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration\". (arXiv 2022)",
           "children": [],
@@ -759,34 +787,6 @@
             "repo": "SNN_Calibration",
             "stars": 92,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:35:08.817Z"
-        },
-        {
-          "node_type": "item",
-          "title": "synsense/rockpool",
-          "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
-            "homepage": "https://rockpool.ai",
-            "id": 404780200,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T01:36:21Z",
-            "open_issues": 6,
-            "owner": "synsense",
-            "repo": "rockpool",
-            "stars": 92,
-            "topics": [
-              "deployment",
-              "jax",
-              "machine-learning",
-              "neuromorphic",
-              "pytorch",
-              "snn"
-            ]
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
         },
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T14:14:42Z",
+            "last_commit": "2026-11-17T06:45:53Z",
             "open_issues": 10,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -1490,7 +1490,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:09:59.862Z",
+    "last_updated": "2026-11-17T11:07:51.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
