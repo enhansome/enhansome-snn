@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-20T02:47:59Z",
+            "last_commit": "2026-11-21T02:57:03Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -212,10 +212,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T14:02:29Z",
-            "open_issues": 126,
+            "open_issues": 131,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2187,
+            "stars": 2188,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 75,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2104,
+            "stars": 2105,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -333,7 +333,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T16:37:00Z",
-            "open_issues": 231,
+            "open_issues": 233,
             "owner": "brian-team",
             "repo": "brian2",
             "stars": 1259,
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-19T21:25:05Z",
+            "last_commit": "2026-11-20T16:25:11Z",
             "open_issues": 10,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:28:56.743Z",
+    "last_updated": "2026-11-21T10:12:43.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
