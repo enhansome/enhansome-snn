@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-21T02:57:03Z",
+            "last_commit": "2026-11-22T01:51:51Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -211,8 +211,8 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T14:02:29Z",
-            "open_issues": 131,
+            "last_commit": "2026-11-21T19:09:14Z",
+            "open_issues": 129,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2188,
@@ -243,7 +243,7 @@
             "open_issues": 75,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2105,
+            "stars": 2106,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -303,7 +303,7 @@
             "open_issues": 10,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -336,7 +336,7 @@
             "open_issues": 233,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "biological-simulations",
               "brian",
@@ -400,7 +400,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "CfC",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "deep-learning",
               "neural-ode",
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:12:43.260Z",
+    "last_updated": "2026-11-22T10:17:09.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
