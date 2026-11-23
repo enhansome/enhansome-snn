@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-23T07:57:21Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
             "stars": 3683,
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-22T01:51:51Z",
+            "last_commit": "2026-11-23T02:14:20Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "XDUSPONGE",
             "repo": "SNN_benchmark",
-            "stars": 254,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2363,
+            "stars": 2364,
             "topics": [
               "cfc",
               "keras",
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T19:09:14Z",
-            "open_issues": 129,
+            "last_commit": "2026-11-23T07:50:34Z",
+            "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2188,
+            "stars": 2187,
             "topics": [
               "deep-learning",
               "dvs",
@@ -299,8 +299,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T21:39:10Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-23T07:35:35Z",
+            "open_issues": 12,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1707,
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -942,7 +942,7 @@
             "id": 57382690,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-20T16:25:11Z",
+            "last_commit": "2026-11-23T07:52:15Z",
             "open_issues": 10,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T10:17:09.732Z",
+    "last_updated": "2026-11-23T11:16:03.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
