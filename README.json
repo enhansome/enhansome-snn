@@ -15,8 +15,8 @@
             "id": 95533189,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-23T07:57:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-23T12:37:25Z",
+            "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
             "stars": 3683,
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-23T02:14:20Z",
+            "last_commit": "2026-11-24T05:42:42Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2364,
+            "stars": 2366,
             "topics": [
               "cfc",
               "keras",
@@ -215,7 +215,7 @@
             "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2187,
+            "stars": 2188,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 75,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2106,
+            "stars": 2108,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -275,7 +275,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1871,
+            "stars": 1872,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -336,7 +336,7 @@
             "open_issues": 233,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1260,
+            "stars": 1262,
             "topics": [
               "biological-simulations",
               "brian",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "Shikhargupta",
             "repo": "Spiking-Neural-Network",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "mnist-classification",
               "neural-network",
@@ -1370,7 +1370,7 @@
             "id": 433205679,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-28T15:51:28Z",
+            "last_commit": "2026-11-23T17:04:55Z",
             "open_issues": 1,
             "owner": "Mathorga",
             "repo": "behema",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:16:03.202Z",
+    "last_updated": "2026-11-24T12:55:58.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
