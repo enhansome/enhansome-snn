@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3683,
+            "stars": 3685,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-24T05:42:42Z",
+            "last_commit": "2026-11-25T04:44:43Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "realamirhe",
             "repo": "awesome-computational-neuro-science",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "article",
               "awesome",
@@ -187,7 +187,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2366,
+            "stars": 2367,
             "topics": [
               "cfc",
               "keras",
@@ -212,7 +212,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T07:50:34Z",
-            "open_issues": 127,
+            "open_issues": 129,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2188,
@@ -243,7 +243,7 @@
             "open_issues": 75,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2108,
+            "stars": 2109,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -275,7 +275,7 @@
             "open_issues": 11,
             "owner": "raminmh",
             "repo": "liquid_time_constant_networks",
-            "stars": 1872,
+            "stars": 1871,
             "topics": [
               "deep-learning",
               "liquid-neural-networks",
@@ -333,10 +333,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T16:37:00Z",
-            "open_issues": 233,
+            "open_issues": 235,
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1262,
+            "stars": 1263,
             "topics": [
               "biological-simulations",
               "brian",
@@ -487,7 +487,7 @@
             "open_issues": 3,
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "brian",
               "brian2",
@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-13T11:53:58Z",
-            "open_issues": 139,
+            "open_issues": 140,
             "owner": "brian-team",
             "repo": "brian2cuda",
             "stars": 86,
@@ -943,7 +943,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-11-23T07:52:15Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "ANNarchy",
             "repo": "ANNarchy",
             "stars": 46,
@@ -1043,7 +1043,7 @@
             "open_issues": 2,
             "owner": "ShahriarRezghi",
             "repo": "Spyker",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "computational-neuroscience",
               "cuda",
@@ -1517,7 +1517,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:55:58.547Z",
+    "last_updated": "2026-11-25T11:42:46.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
