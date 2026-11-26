@@ -15,11 +15,11 @@
             "id": 95533189,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-23T12:37:25Z",
+            "last_commit": "2026-11-26T08:35:34Z",
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3685,
+            "stars": 3683,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -36,11 +36,11 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-25T04:44:43Z",
+            "last_commit": "2026-11-26T03:54:17Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
-            "stars": 526,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:08.817Z"
@@ -211,11 +211,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T07:50:34Z",
-            "open_issues": 129,
+            "last_commit": "2026-11-26T08:20:39Z",
+            "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2188,
+            "stars": 2189,
             "topics": [
               "deep-learning",
               "dvs",
@@ -243,7 +243,7 @@
             "open_issues": 75,
             "owner": "jeshraghian",
             "repo": "snntorch",
-            "stars": 2109,
+            "stars": 2107,
             "topics": [
               "machine-learning",
               "neural-networks",
@@ -303,7 +303,7 @@
             "open_issues": 12,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1707,
+            "stars": 1706,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -1601,7 +1601,7 @@
                 "open_issues": 23,
                 "owner": "BICLab",
                 "repo": "EMS-YOLO",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "spiking-neural-network",
                   "spiking-yolo"
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T11:42:46.692Z",
+    "last_updated": "2026-11-26T11:28:28.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
@@ -1968,7 +1968,7 @@
       "open_issues": 0,
       "owner": "coderonion",
       "repo": "awesome-snn",
-      "stars": 242,
+      "stars": 243,
       "topics": [
         "attention",
         "awesome-list",
