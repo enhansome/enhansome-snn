@@ -36,7 +36,7 @@
             "id": 532718427,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-27T03:54:37Z",
+            "last_commit": "2026-11-28T03:41:01Z",
             "open_issues": 0,
             "owner": "SpikingChen",
             "repo": "SNN-Daily-Arxiv",
@@ -212,7 +212,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-27T09:38:42Z",
-            "open_issues": 128,
+            "open_issues": 131,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2189,
@@ -424,8 +424,8 @@
             "id": 223287445,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-07-07T19:57:17Z",
-            "open_issues": 80,
+            "last_commit": "2026-11-27T20:04:10Z",
+            "open_issues": 81,
             "owner": "norse",
             "repo": "norse",
             "stars": 828,
@@ -460,7 +460,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 678,
+            "stars": 679,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:24:34.042Z",
+    "last_updated": "2026-11-28T10:52:40.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
